@@ -52,6 +52,19 @@ else:
 
 def writeAIML():  
   chatBot.writeAIMLIF()
+def ChatBotLanguage2EN () :
+  chatBot.writeAndQuit
+  chatBot.startSession("default","en")
+  mouth.setLanguage("en")
+  mouth.setVoice(unicode(MyvoiceType2EN,'utf-8'))
+  ear.setLanguage("en")
+def ChatBotLanguage2FR () :
+  chatBot.writeAndQuit
+  chatBot.startSession("default","fr")
+  mouth.setLanguage("fr")
+  mouth.setVoice(unicode(MyvoiceType,'utf-8'))
+  ear.setLanguage("fr")
+  
   
 # wikidata helper
 WikiFile="WIKIDATA_propEN.txt"
