@@ -54,6 +54,7 @@ if MyvoiceTTS=="MicrosoftLocalTTS":MyvoiceTTS="LocalSpeech"
 MyLanguage=BasicConfig.get('TTS', 'MyLanguage')
 VoiceRssApi=BasicConfig.get('TTS', 'VoiceRssApi')
 MyvoiceType=BasicConfig.get('TTS', 'MyvoiceType')
+MyvoiceType2EN=BasicConfig.get('TTS', 'MyvoiceType2EN')
 awsaccesskeyid=BasicConfig.get('TTS', 'awsaccesskeyid')
 awssecretkey=BasicConfig.get('TTS', 'awssecretkey')
 IndianTtsApi=BasicConfig.get('TTS', 'IndianTtsApi')
