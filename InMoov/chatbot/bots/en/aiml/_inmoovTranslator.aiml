@@ -108,13 +108,20 @@
     <category>
       <pattern>#</pattern>
       <template>
+     	 <oob>
+       		<mrl>
+          	<service>python</service>
+          	<method>exec</method>
+         	<param>writeAIML()</param>
+        	</mrl>
+      	</oob>
         <oob>
-          <mrl>
+          	<mrl>
             <service>python</service>
             <method>exec</method>
             <param>translateText("<star index="1" />","<get name="languetraduction" />")</param>
-          </mrl>
-        </oob>
+          	</mrl>
+        </oob>        
       </template>
     </category>
   </topic>

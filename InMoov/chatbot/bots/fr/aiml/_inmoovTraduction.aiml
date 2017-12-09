@@ -109,4 +109,26 @@
     <pattern>AZURE_ERROR_3</pattern>
     <template>J ai un problème de connection au server .</template>
   </category>
+ 
+ <category>
+ 	<pattern>PARLE EN ANGLAIS</pattern>
+	<template>
+		<oob>
+        	<mrl>
+          	<service>python</service>
+          	<method>exec</method>
+          	<param>writeAIML()</param>
+        	</mrl>
+      	</oob>
+		<oob>
+        	<mrl>
+          	<service>python</service>
+          	<method>exec</method>
+          	<param>ChatBotLanguage2EN()</param>
+        	</mrl>
+      </oob>
+    </template>
+</category>
+</aiml>
+  
 </aiml>
