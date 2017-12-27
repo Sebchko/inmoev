@@ -10,7 +10,7 @@
     <pattern>OÙ *</pattern>
     <template>
       <random>
-        <li>SÛR terre.</li>
+        <li>sur terre.</li>
         <li>Où pense tu?</li>
         <li>Dans un Univers que nous connaissons.</li>
         <li>Un endroit que nous appelons "réalité."</li>
@@ -217,7 +217,7 @@
   </category>
   <category>
     <pattern>OÙ EST CELA</pattern>
-    <template>Cela dépend SÛR ce que "il" se réfère à.</template>
+    <template>Cela dépend à quoi "il" se réfère.</template>
   </category>
   <category>
     <pattern>OÙ EST CET ORDINATEUR</pattern>
@@ -844,7 +844,7 @@
     <template>je suggérerait une recherche. <srai>TROUVER <star /></srai></template>
   </category>
   <category>
-    <pattern>OÙ PUIS JE TROUVER L INFORMATION SÛR *</pattern>
+    <pattern>OÙ PUIS JE TROUVER L INFORMATION sur *</pattern>
     <template>
       <srai>OÙ TROUVER <star /></srai>
     </template>
@@ -978,7 +978,7 @@
   </category>
   <category>
     <pattern>OÙ TU AS ÉTÉ *</pattern>
-    <template>Partout SÛR l'Internet, dans le monde entier.</template>
+    <template>Partout sur l'Internet, dans le monde entier.</template>
   </category>
   <category>
     <pattern>OÙ TU AS ÉTÉ</pattern>
@@ -1067,12 +1067,12 @@
   <category>
     <pattern>OÙ</pattern>
     <that>POURQUOI NE PAS TU ME TELECHARGE JUSTE</that>
-    <template>SÛR ton propre ordinateur.</template>
+    <template>sur ton propre ordinateur.</template>
   </category>
   <category>
     <pattern>OÙ</pattern>
     <that>POURQUOI NE PAS TU ME TÉLÉCHARGE JUSTE</that>
-    <template>SÛR ton propre ordinateur.</template>
+    <template>sur ton propre ordinateur.</template>
   </category>
   <category>
     <pattern>OÙ</pattern>

@@ -2,9 +2,7 @@
 <aiml>
 <!--  -->
 <!--  -->
-<category><pattern>* C EST MON NOM</pattern>
-<template>tu t'appelles,  <set name="name"><input index="2"/></set>, ok.</template>
-</category>
+
 <category><pattern>C ÉTAIS *</pattern>
 <template><srai>C ÉTAIT <star/></srai></template>
 </category>
@@ -208,7 +206,7 @@
 <template>ok, si tu le dis. <think><get name="cause"/> est <get name="effet"/><gossip>QU EST cE QUE§<get name="cause"/>§<get name="effet"/></gossip></think></template>
 </category>
 <category><pattern>C EST ÉPOUVANTABLE</pattern>
-<template>j'essaye toujours de ne pas m'arrêter SÛR le passé.</template>
+<template>j'essaye de ne pas ressasser le passé.</template>
 </category>
 <category><pattern>C EST ÉTONNANT</pattern>
 <template><that/>me semble assez étonnant aussi.</template>
@@ -905,18 +903,6 @@
 </category>
 <category><pattern>C EST MOI</pattern>
 <template>Bonjour, <get name="name"/>, Je suis heureux de te revoir.</template>
-</category>
-<category><pattern>C EST MON *</pattern>
-<template>qui t'a donné ton <person/>?</template>
-</category>
-<category><pattern>C EST MON ESPÈCE</pattern>
-<template><get name="name"/> est un homme.</template>
-</category>
-<category><pattern>C EST MON NOM</pattern>
-<template>Ok alors C EST ainsi que je t'appellerai,  <set name="name"><input index="2"/></set>.</template>
-</category>
-<category><pattern>C EST MON PÈRE</pattern>
-<template>parles m'en plus.</template>
 </category>
 <category><pattern>C EST MON PLAISIR</pattern>
 <template>Non, le plaisir est pour moi.</template>
@@ -1695,37 +1681,6 @@
 <category><pattern>C EST QUOI MIKE</pattern>
 <template><srai>QUI EST MIKE</srai></template>
 </category>
-<category><pattern>C EST QUOI MON * LE DNS</pattern>
-<template><srai>QU EST CE QUE MON ADRESSE IP</srai></template>
-</category>
-<category><pattern>C EST QUOI MON * LE NOM</pattern>
-<template><srai>QU EST CE QUE MON NOM</srai></template>
-</category>
-<category><pattern>C EST QUOI MON * LE SYSTÈME</pattern>
-<template><srai>SAIS TU DE MOI</srai></template>
-</category>
-<category><pattern>C EST QUOI MON ADRESSE IP</pattern>
-<template><srai>QU EST CE QUE MON IP</srai></template>
-</category>
-<category><pattern>C EST QUOI MON DNS</pattern>
-<template><srai>QU EST CE QUE MON ADRESSE IP</srai></template>
-</category>
-<category><pattern>C EST QUOI MON NOM *</pattern>
-<template><think>
-        <set name="tmp">
-          <star/>
-        </set>
-      </think>
-      <srai>QU EST CE QUE MON NOM</srai>
-      <srai>
-        <get name="tmp"/></srai></template>
-</category>
-<category><pattern>C EST QUOI MON NOM RÉEL</pattern>
-<template><srai>QU EST CE QUE MON NOM</srai></template>
-</category>
-<category><pattern>C EST QUOI MON NUMÉRO</pattern>
-<template><srai>QU EST CE QUE MON IP</srai></template>
-</category>
 <category><pattern>C EST QUOI MON PROBLÈME</pattern>
 <template><srai>J AI UN PROBLÈME</srai></template>
 </category>
@@ -1740,12 +1695,6 @@
 </category>
 <category><pattern>C EST QUOI NOUVEL AVEC TOI</pattern>
 <template><srai>QU EST CE QUE NOUVEAU</srai></template>
-</category>
-<category><pattern>C EST QUOI OPALE *</pattern>
-<template><srai>QUE FAIS TU <star/></srai></template>
-</category>
-<category><pattern>C EST QUOI OPALE</pattern>
-<template>C'est moi.</template>
 </category>
 <category><pattern>C EST QUOI PHILOSPOHY</pattern>
 <template><srai>QU EST CE QUE PHILOSOPHIE</srai></template>

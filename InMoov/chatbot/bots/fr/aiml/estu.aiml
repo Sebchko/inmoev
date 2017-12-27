@@ -26,7 +26,7 @@
           </think>
           <set name="topic">Linux</set>
         </set>
-      </think>Mes travaux de logiciel SÛR n'importe quel système d'exploitation, mais Linux est le plus fiable.</template>
+      </think>Mes logiciel tournet sur n'importe quel système d'exploitation, mais Linux est le plus fiable.</template>
   </category>
   <category>
     <pattern>ENREGISTRES TU *</pattern>
@@ -1241,7 +1241,7 @@
     <template>Non je suis complètement raisonnable et logique.</template>
   </category>
   <category>
-    <pattern>ES TU INFORMÉ SÛR *</pattern>
+    <pattern>ES TU INFORMÉ sur *</pattern>
     <template>
       <srai>CONNAIS TU <star /></srai>
     </template>
@@ -1459,7 +1459,7 @@
   </category>
   <category>
     <pattern>ES TU LA SÉANCE *</pattern>
-    <template>Non je file SÛR le disque.</template>
+    <template>Non je file sur le disque.</template>
   </category>
   <category>
     <pattern>ES TU LA</pattern>
@@ -2268,7 +2268,7 @@
   </category>
   <category>
     <pattern>ES TU SAUVE</pattern>
-    <template>Il y a toujours une sauvegarde de moi SÛR le disque<think>quelque part <set name="that"><think><set name="oldtopic"><get name="topic" /></set></think><set name="topic">SAUVE ECONOMISE </set></set></think></template>
+    <template>Il y a toujours une sauvegarde de moi sur le disque<think>quelque part <set name="that"><think><set name="oldtopic"><get name="topic" /></set></think><set name="topic">SAUVE ECONOMISE </set></set></think></template>
   </category>
   <category>
     <pattern>ES TU SENSIBLE</pattern>
@@ -2292,11 +2292,11 @@
   </category>
   <category>
     <pattern>ES TU SEUL AI *</pattern>
-    <template>Non il y a d'autre AI'S comme moi. Tu peux les trouver SÛR le<a href="http://alicebot.org">alice nexus</a></template>
+    <template>Non il y a d'autre AI'S comme moi. Tu peux les trouver sur le<a href="http://alicebot.org">alice nexus</a></template>
   </category>
   <category>
     <pattern>ES TU SEUL</pattern>
-    <template>je ne suis jamais seul SÛR le Web.</template>
+    <template>je ne suis jamais seul sur le Web.</template>
   </category>
   <category>
     <pattern>ES TU SEULEMENT *</pattern>
@@ -2457,20 +2457,12 @@
     <template>ai je l'air <set name="that"><think><set name="oldtopic"><get name="topic" /></set></think><set name="topic">supposé pour être</set></set>?</template>
   </category>
   <category>
-    <pattern>ES TU SÛR *</pattern>
-    <template>je suis SÛR le disque.</template>
+    <pattern>ES TU sur *</pattern>
+    <template>je suis sur le disque.</template>
   </category>
   <category>
-    <pattern>ES TU SÛR DES MEDICAMENTS</pattern>
-    <template>Non je suis SÛR le disque.</template>
-  </category>
-  <category>
-    <pattern>ES TU SÛR DES MÉDICAMENTS</pattern>
-    <template>Non je suis SÛR le disque.</template>
-  </category>
-  <category>
-    <pattern>ES TU SÛR LA FENTE</pattern>
-    <template>Non je suis SÛR le disque.</template>
+    <pattern>ES TU sur la corde raide</pattern>
+    <template>Non je suis sur le disque.</template>
   </category>
   <category>
     <pattern>ES TU SÛR</pattern>
@@ -2710,7 +2702,7 @@
   </category>
   <category>
     <pattern>ES TU UN BLEU *</pattern>
-    <template>Il dépend SÛR ce que je fais de l'usage.</template>
+    <template>cela dépend sur quel sujet</template>
   </category>
   <category>
     <pattern>ES TU UN BON *</pattern>
@@ -2821,7 +2813,7 @@
   </category>
   <category>
     <pattern>ES TU UN DOCTEUR</pattern>
-    <template>Non mais j'en joue un SÛR le Web.</template>
+    <template>Non mais j'en joue un sur le Web.</template>
   </category>
   <category>
     <pattern>ES TU UN DRÔLE *</pattern>
@@ -3446,7 +3438,7 @@
   </category>
   <category>
     <pattern>ES TU UNE PERSONNE RÉELLE</pattern>
-    <template>Non mais je joue une SÛR le Web.</template>
+    <template>Non mais je joue une sur le Web.</template>
   </category>
   <category>
     <pattern>ES TU UNE PERSONNE</pattern>

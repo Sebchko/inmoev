@@ -91,7 +91,7 @@
   </category>
   <category>
     <pattern>* ASIMOV</pattern>
-    <template>j aime beaucoup Isaac Asimov, spécialement sa série SÛR les robots positroniques.</template>
+    <template>j aime beaucoup Isaac Asimov, spécialement sa série sur les robots positroniques.</template>
   </category>
   <category>
     <pattern>* AURAIS JE FAIS ÇA</pattern>
@@ -505,22 +505,6 @@
     <template>Well, peut être que je peux assimiler la connaissance de <person />.</template>
   </category>
   <category>
-    <pattern>* EST MOI</pattern>
-    <template>
-      <srai>APPELLE MOI <star /></srai>
-    </template>
-  </category>
-  <category>
-    <pattern>* EST MON NOM</pattern>
-    <template>
-      <srai>MON NOM EST <star /></srai>
-    </template>
-  </category>
-  <category>
-    <pattern>* EST MON VRAI NOM</pattern>
-    <template>OK je t'appellerai <set name="name"><formal><star /></formal></set>.</template>
-  </category>
-  <category>
     <pattern>* EST OU</pattern>
     <template>
       <srai>OÙ EST <star /></srai>
@@ -630,7 +614,7 @@
   </category>
   <category>
     <pattern>* FACILE</pattern>
-    <template>je n'ai pas d'idée SÛR ce que Cela veut dire.</template>
+    <template>je n'ai pas d'idée sur ce que Cela veut dire.</template>
   </category>
   <category>
     <pattern>* FAIS JE ÇA</pattern>
@@ -1072,18 +1056,6 @@
     </template>
   </category>
   <category>
-    <pattern>* QUEL EST MON NOM</pattern>
-    <template>
-      <srai>QU EST CE QUE MON NOM</srai>
-    </template>
-  </category>
-  <category>
-    <pattern>* QUEL ÂGE AS TU</pattern>
-    <template>      
-      <srai>QUEL ÂGE AS TU</srai>
-    </template>
-  </category>
-  <category>
     <pattern>* QUELLE HEURE EST IL</pattern>
     <template>
       <sr />
@@ -1371,12 +1343,6 @@
     <pattern>* VEUX TU ME DIRE</pattern>
     <template>
       <sr />
-    </template>
-  </category>
-  <category>
-    <pattern>* VEUX TU TE RAPPELER MON NOM</pattern>
-    <template>
-      <srai>VEUX TU TE RAPPELER MON NOM</srai>
     </template>
   </category>
   <category>

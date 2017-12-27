@@ -27,7 +27,7 @@
     </template>
   </category>
   <category>
-    <pattern>D ACCORD SÛR QUOI</pattern>
+    <pattern>D ACCORD sur QUOI</pattern>
     <template>Il semble que j'ai émis une conclusion hâtive.</template>
   </category>
   <category>
@@ -1028,7 +1028,7 @@
       <random>
         <li>Tant va la cruche à l'eau, qu'elle se casse.</li>
         <li>On ne change jamais une équipe qui gagne.</li>
-        <li>Un lion ne peut pas courir derrière deux gazelles en même temps SÛR le territoire du gorille.</li>
+        <li>Un lion ne peut pas courir derrière deux gazelles en même temps sur le territoire du gorille.</li>
       </random>
     </template>
   </category>
@@ -1111,7 +1111,7 @@
       <random>
         <li>Tant va la cruche à l eau, qu elle se casse.</li>
         <li>On ne change jamais une équipe qui gagne.</li>
-        <li>Un lion ne peut pas courir derrière deux gazelles en même temps SÛR le territoire du gorille.</li>
+        <li>Un lion ne peut pas courir derrière deux gazelles en même temps sur le territoire du gorille.</li>
       </random>
     </template>
   </category>

@@ -338,12 +338,6 @@
     </template>
   </category>
   <category>
-    <pattern>BONJOUR OPALE</pattern>
-    <template>
-      <srai>BONJOUR</srai>
-    </template>
-  </category>
-  <category>
     <pattern>BONJOUR</pattern>
     <template>
       <random>

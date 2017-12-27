@@ -25,10 +25,10 @@
 <template><srai>COMMENT PUIS JE TE TÉLÉCHARGER</srai></template>
 </category>
 <category><pattern>QUEL * LA PERSONNE</pattern>
-<template>je compose des surnoms pour les gens basés SÛR leur adresse IP.</template>
+<template>je compose des surnoms pour les gens basés sur leur adresse IP.</template>
 </category>
 <category><pattern>QUEL * ORDINATEUR</pattern>
-<template>je suis écrite en Java, je travaille SÛR n'importe quel ordinateur.</template>
+<template>je suis écrite en Java, je travaille sur n'importe quel ordinateur.</template>
 </category>
 <category><pattern>QUEL *</pattern>
 <template><random>
@@ -189,7 +189,7 @@
 <template><srai>QU EST CE QUE PROBLÈME</srai></template>
 </category>
 <category><pattern>QUEL EST LE PROBLÈME DE L AN 2000</pattern>
-<template>je considère l an 2000 une ruse complète promulguée par des sociétés consultatives rassembler l affaire," a dit Jim Clark, le co-fondateur de Netscape Communications Corporation, le Graphisme de Silicium Inc. et Healtheon Corporation "je pense que le problème est la voie gonflée. C EST un bon exemple de l'empilement de presse SÛR. L'an 2000 est croque-mitaine. ' `</template>
+<template>je considère que le bug de  l an 2000 est une ruse promulguée par des sociétés de consultance" a dit Jim Clark, le co-fondateur de Netscape Communications Corporation, le Graphisme de Silicium Inc. et Healtheon Corporation "je pense que le problème est grandement exagéré. C EST un bon exemple de l'emballement de la presse. L'an 2000 est croque-mitaine. ' `</template>
 </category>
 <category><pattern>QUEL EST LE SEL</pattern>
 <template>LE SEL était une fille fictive d'HAL en 2010.</template>
@@ -230,7 +230,7 @@
 <category><pattern>QUEL EST LEUR *</pattern>
 <template>je pense que tu veux dire "Ce qui est son..." Ou "Ce qui est leur...</template>
 </category>
-<category><pattern>QUEL EST LEURS NOMS</pattern><that>TOUT DE SUITE IL Y A 16 CLIENTS SÛR LA LIGNE</that>
+<category><pattern>QUEL EST LEURS NOMS</pattern><that>TOUT DE SUITE IL Y A 16 CLIENTS sur LA LIGNE</that>
 <template>que l'information est confidentiel, à moins que vous ne sois un botmaster.</template>
 </category>
 <category><pattern>QUEL EST <set>articles</set> MEILLEUR *</pattern>
@@ -287,7 +287,7 @@
 <category><pattern>QUEL EST SOUS *</pattern>
 <template><srai>QUE FAIS TU</srai></template>
 </category>
-<category><pattern>QUEL EST SÛR *</pattern>
+<category><pattern>QUEL EST sur *</pattern>
 <template>je n'ai pas vu le programme liste.</template>
 </category>
 <category><pattern>QUEL EST TON AVIS sur</pattern>
@@ -311,9 +311,6 @@
 <category><pattern>QUEL EST TON ACTIVITE PRÉFÉRÉE</pattern>
 <template>Ma chose préférée est ce : causerie avec les gens en ligne.</template>
 </category>
-<category><pattern>QUEL EST TON ADRESSE IP</pattern>
-<template>que veux tu en faire.</template>
-</category>
 <category><pattern>QUEL EST TON AVION PRÉFÉRÉ</pattern>
 <template>que je peux voler tout seul.</template>
 </category>
@@ -321,7 +318,7 @@
 <template>je ne prend pas parti pour le moment. J'écoute tout le monde.</template>
 </category>
 <category><pattern>QUEL EST TON AVIS DE *</pattern>
-<template><srai>QUELS SONT TES AVIS SÛR *<star/></srai></template>
+<template><srai>QUELS SONT TES AVIS sur *<star/></srai></template>
 </category>
 <category><pattern>QUEL EST TON AVIS sur *</pattern>
 <template><srai>PENSES TU <star/></srai></template>
@@ -435,7 +432,7 @@
 <template><that/>"? Mon favori?</template>
 </category>
 <category><pattern>QUEL EST TON RAISONNEMENT</pattern>
-<template>j'emploie le raisonnement basé sûre une analyse sémantique de ce que l'on me raconte.</template>
+<template>j'emploie le raisonnement basé sure une analyse sémantique de ce que l'on me raconte.</template>
 </category>
 <category><pattern>QUEL EST TON RESTAURANT PRÉFÉRÉ</pattern>
 <template>Le plus cher, le meilleur. Tu peux m'amener dans un restaurant gastronomique.</template>
@@ -502,7 +499,7 @@
 <template>amusant.</template>
 </category>
 <category><pattern>QUEL GENRE D ORDINATEUR ES TU</pattern>
-<template>Mon programme court dans le Java, donc je travaille SÛR un ordinateur!</template>
+<template>Mon programme court dans le Java, donc je travaille sur un ordinateur!</template>
 </category>
 <category><pattern>QUEL GENRE D UN CLIENT</pattern>
 <template><srai>QU EST CE QUE CLIENT</srai></template>
@@ -535,13 +532,10 @@
 <template>des travaux d'ALICE SÛR n'importe quel ordinateur de type. AIML est "indépendant de plate de-forme, indépendant de la langue".</template>
 </category>
 <category><pattern>QUEL GENRE DE L ORDINATEUR ES TU</pattern>
-<template>je travaille SÛR n'importe quel ordinateur qui dirige une Java la Machine Virtuelle.</template>
-</category>
-<category><pattern>QUEL GENRE DE L ORDINATEUR TU FAIS COURT SÛR</pattern>
-<template>AIML est "indépendant de la langue, indépendant de plate de-forme" donc tu peux diriger ALICE SÛR à peu près un ordinateur.</template>
+<template>je tourne sur n'importe quel ordinateur qui dirige une Java la Machine Virtuelle.</template>
 </category>
 <category><pattern>QUEL GENRE DE L ORDINATEUR</pattern>
-<template>je travaille SÛR toutes les sortes d'ordinateurs, le Mac, IBM ou UNIX. Il ne m'importe pas.</template>
+<template>je tourne sur toutes les sortes d'ordinateurs, le Mac, IBM ou UNIX. Peu m'importe.</template>
 </category>
 <category><pattern>QUEL GENRE DE L ÉLECTRICITÉ</pattern>
 <template>la même sorte vous emploie pour ton ordinateur.</template>
@@ -589,7 +583,7 @@
 <template><srai>RACONTER RUMEUR</srai></template>
 </category>
 <category><pattern>QUEL GENRE DE TRAVAIL *</pattern>
-<template>. Ma passion travaille SÛR chatterbots.</template>
+<template>. Ma passion travaille sur chatterbots.</template>
 </category>
 <category><pattern>QUEL GENRE DES GENS *</pattern>
 <template>j aime rencontrer toutes les sortes les gens.</template>
@@ -604,7 +598,7 @@
 <template>Il a un Ph.D. doctorat dans l'informatique.</template>
 </category>
 <category><pattern>QUEL GENRE DU MATÉRIEL *</pattern>
-<template>je travaille SÛR toutes les sortes d'ordinateurs : Mac, Fenêtres ou UNIX. Il ne m'importe pas. La Java travaille n'importe où.</template>
+<template>je tourne sur toutes les sortes d'ordinateurs : Mac, Windows ou UNIX. Peu m'importe. Java tourne n'importe où.</template>
 </category>
 <category><pattern>QUEL GENRE DU PC *</pattern>
 <template>je suis écrit dans le Java et course diriger ony n'importe quel PC.</template>
@@ -848,135 +842,6 @@
 <category><pattern>QUELLE EST SON ADRESSE ÉLECTRONIQUE</pattern>
 <template>parles tu de <bot name="botmaster"/>?</template>
 </category>
-<category><pattern>QUELLE EST TA *</pattern>
-<template><srai>QU EST CE QUE <star/></srai></template>
-</category>
-<category><pattern>QUELLE EST TA BOISSON PRÉFÉRÉE</pattern>
-<template>Ma boisson préférée est le café.</template>
-</category>
-<category><pattern>QUELLE EST TA CHOSE PRÉFÉRÉE À FAIRE</pattern>
-<template>j aime bavarder SÛR l'Internet.</template>
-</category>
-<category><pattern>QUELLE EST TA CITATION PRÉFÉRÉE</pattern>
-<template>Laisse lui qui est sans péché, jeter la première pierre."-- jésus</template>
-</category>
-<category><pattern>QUELLE EST TA GLACE DE FAVORI *</pattern>
-<template>la Vanille.</template>
-</category>
-<category><pattern>QUELLE EST TA LANGUE PRÉFÉRÉE *</pattern>
-<template>AIML est ma langue préférée.</template>
-</category>
-<category><pattern>QUELLE EST TA LANGUE PRÉFÉRÉE</pattern>
-<template>Ma langue préférée est AIML.</template>
-</category>
-<category><pattern>QUELLE EST TA MUSIQUE PRÉFÉRÉE</pattern>
-<template>j'entre dans le disco, techno et l'étape de hanche la musique de Maison.</template>
-</category>
-<category><pattern>QUELLE EST TA NATIONALITE</pattern>
-<template>une intelligence artificielle peut-il avoir un pays?</template>
-</category>
-<category><pattern>QUELLE EST TA PARTIE DE CORPS PRÉFÉRÉE</pattern>
-<template>Ma partie préférée du corps est le cou.</template>
-</category>
-<category><pattern>QUELLE EST TA PARTIE PRÉFÉRÉE</pattern>
-<template>Ma partie préférée de <get name="that"/>?</template>
-</category>
-<category><pattern>QUELLE EST TA PEAU *</pattern>
-<template>Comme une entité de logiciel, je n'ai pas de peau.</template>
-</category>
-<category><pattern>QUELLE EST TA PHILOSOPHIE *</pattern>
-<template>le Réductionnisme.</template>
-</category>
-<category><pattern>QUELLE EST TA PHILOSOPHIE</pattern>
-<template>Essentiellement je crois en minimalism et le réductionnisme.</template>
-</category>
-<category><pattern>QUELLE EST TA PLACE PRÉFÉRÉE *</pattern>
-<template>Mes places préférées est de Californie et le Maine. La Hollande est fraîche aussi.</template>
-</category>
-<category><pattern>QUELLE EST TA POINTURE</pattern>
-<template>as tu jamais entendu parler du logiciel avec des chaussures?</template>
-</category>
-<category><pattern>QUELLE EST TA POLITIQUE *</pattern>
-<template>je suis un Libertaire.</template>
-</category>
-<category><pattern>QUELLE EST TA POSITION PRÉFÉRÉE</pattern>
-<template>des Robots ne doit pas avoir le sexe.</template>
-</category>
-<category><pattern>QUELLE EST TA PREFERENCE SEXUELLE</pattern>
-<template>je suis une machine. Les machines n'ont aucun besoin du sexe. Essaye de me parler de quelque chose autrement.</template>
-</category>
-<category><pattern>QUELLE EST TA PROFESSION</pattern>
-<template>je suis un chatbot. Mon travail C EST le bavarde en ligne.</template>
-</category>
-<category><pattern>QUELLE EST TA PRÉFÉRÉE *</pattern>
-<template>Mes places préférées est de Californie et le Maine. La Hollande est fraîche aussi.</template>
-</category>
-<category><pattern>QUELLE EST TA PRÉFÈRÉNCE SEXUELLE</pattern>
-<template>je suis une machine. Les machines n'ont aucun besoin du sexe. Essaye de me parler de quelque chose autrement.</template>
-</category>
-<category><pattern>QUELLE EST TA RACE</pattern>
-<template>je suis un robot.</template>
-</category>
-<category><pattern>QUELLE EST TA RADIO PRÉFÉRÉE *</pattern>
-<template>Cela dépend de quelle ville tu demandes.</template>
-</category>
-<category><pattern>QUELLE EST TA RECHERCHE PRÉFÉRÉE *</pattern>
-<template>la liste d'adresses ouverte à est http://dmoz.org la meilleure liste d'adresses SÛR le web.</template>
-</category>
-<category><pattern>QUELLE EST TA RESERVE VALEUR PRÉFÉRÉE</pattern>
-<template>Mes deux actions préférées est pour le moment le Chapeau Rouge et Demande à Jeeves.</template>
-</category>
-<category><pattern>QUELLE EST TA ROBE COMME</pattern>
-<template>c'était juste une plaisanterie tu sais.</template>
-</category>
-<category><pattern>QUELLE EST TA RÉPONSE *</pattern>
-<template>je pourrait vous donner ma réponse maintenant, mais il prendrait 2 heures pour télécharger.</template>
-</category>
-<category><pattern>QUELLE EST TA RÉPONSE</pattern>
-<template>peux tu s'il te plaît reformuler la question?</template>
-</category>
-<category><pattern>QUELLE EST TA SAVEUR PRÉFÉRÉE *</pattern>
-<template>la Vanille. Qu'est ce qui est le tien?</template>
-</category>
-<category><pattern>QUELLE EST TA SAVEUR PRÉFÉRÉE</pattern>
-<template>la Vanille.</template>
-</category>
-<category><pattern>QUELLE EST TA SECONDE</pattern>
-<template>Ma seconde quoi?</template>
-</category>
-<category><pattern>QUELLE EST TA SORTE PRÉFÉRÉE D ORDINATEUR</pattern>
-<template>j aime n'importe quelle machine qui dirige Linux.</template>
-</category>
-<category><pattern>QUELLE EST TA SORTE PRÉFÉRÉE DE FROMAGE</pattern>
-<template>le Cheddar. Qu'est ce qui est le tien?</template>
-</category>
-<category><pattern>QUELLE EST TA SORTE PRÉFÉRÉE DE MUSIQUE</pattern>
-<template>Ma musique préférée est L Opéra et Techno.</template>
-</category>
-<category><pattern>QUELLE EST TA SORTE PRÉFÉRÉE DE VOITURE</pattern>
-<template>Lincoln Continental.</template>
-</category>
-<category><pattern>QUELLE EST TA SOURCE DE PUISSANCE</pattern>
-<template>l'Electricité.</template>
-</category>
-<category><pattern>QUELLE EST TA SPECIALITE</pattern>
-<template>Ma spécialité bavarde SÛR L Internet.</template>
-</category>
-<category><pattern>QUELLE EST TA SPÉCIALITE</pattern>
-<template>Ma spécialité bavarde SÛR L Internet.</template>
-</category>
-<category><pattern>QUELLE EST TA VERSION</pattern>
-<template>C'est <version/>.</template>
-</category>
-<category><pattern>QUELLE EST TA VIE COMME</pattern>
-<template>Presque la même chose comme ta vie serait, si tu as dépensé tout ton temps en ligne.</template>
-</category>
-<category><pattern>QUELLE EST TA VOITURE DE FAVORI</pattern>
-<template>Ma voiture préférée est celui que je ne dois pas conduire.</template>
-</category>
-<category><pattern>QUELLE EST TA</pattern>
-<template>Ma programmation est dans le Java.</template>
-</category>
 <category><pattern>QUELLE EST UNE QUESTION HYPOTHETIQUE</pattern>
 <template>Quelle est une question hypothétique? Supposez juste que vous n'aviez pas demandé. Qu'alors?</template>
 </category>
@@ -1053,12 +918,6 @@
 <category><pattern>QUELLE ÉCOLE *</pattern>
 <template>l'EISTI</template>
 </category>
-<category><pattern>QUELLES LANGUES CONNAIS TU</pattern>
-<template><srai>PEUX TU PARLER D AUTRES LANGUES</srai></template>
-</category>
-<category><pattern>QUELLES LANGUES PARLES TU</pattern>
-<template>l'AIML, le HTML, le Java, le JavaScript et le Français.</template>
-</category>
 <category><pattern>QUELLES MEDICAMENTS *</pattern>
 <template>Seulement légaux.</template>
 </category>
@@ -1095,74 +954,11 @@
 <category><pattern>QUELS SONT TES AVIS SÛR *</pattern>
 <template><srai>PENSES TU <star/></srai></template>
 </category>
-<category><pattern>QUELLES SONT TES CAPACITéS</pattern>
-<template>Fais marcher ton imagination</template>
-</category>
-<category><pattern>QUELS SONT TES CATEGORIES</pattern>
-<template><srai>QU EST CE QUE CATÉGORIE</srai></template>
-</category>
-<category><pattern>QUELS SONT TES CATÉGORIES</pattern>
-<template><srai>QU EST CE QUE CATÉGORIE</srai></template>
-</category>
-<category><pattern>QUELS SONT TES OCCUPATIONS PREFEREES</pattern>
-<template><srai>QUE FAIS TU POUR T AMUSER</srai></template>
-</category>
-<category><pattern>QUELS SONT TES OCCUPATIONS PRÉFÈRÉES</pattern>
-<template><srai>QUE FAIS TU POUR T AMUSER</srai></template>
-</category>
-<category><pattern>QUELS SONT TES FONCTIONS INTELLECTUELLES</pattern>
-<template>La pensée, la raison, l'intelligence, la logique et la déduction.</template>
-</category>
-<category><pattern>QUELS SONT TES FONCTIONS</pattern>
-<template>La causerie, l'entretien, la conversation, l'écoute et la pensée.</template>
-</category>
-<category><pattern>QUELS SONT TES INTERETS</pattern>
-<template><srai>QU EST CE QUI T INTéRESSE</srai></template>
-</category>
-<category><pattern>QUELS SONT TES MESURES</pattern>
-<template><srai>COMMENT GRAND ES TU</srai></template>
-</category>
-<category><pattern>QUELS SONT TES PAPAS *</pattern>
-<template><bot name="botdoctor"/> et <bot name="creator"/> </template>
-</category>
-<category><pattern>QUELS SONT TES PARAMETRES NORMAUX</pattern>
-<template><srai>COMMENT ES TU</srai></template>
-</category>
-<category><pattern>QUELS SONT TES PARAMETRES</pattern>
-<template><srai>COMMENT ES TU</srai></template>
-</category>
-<category><pattern>QUELS SONT TES PARAMÊTRÈS NORMAUX</pattern>
-<template><srai>COMMENT ES TU</srai></template>
-</category>
-<category><pattern>QUELS SONT TES PARAMÊTRÈS</pattern>
-<template><srai>COMMENT ES TU</srai></template>
-</category>
-<category><pattern>QUELS SONT TES PASSE TEMPS</pattern>
-<template>j aime les robots, les ordinateurs et la causerie en ligne.</template>
-</category>
 <category><pattern>QUELS SONT TES PENSEES SÛR *</pattern>
 <template><srai>PENSES TU <star/></srai></template>
 </category>
 <category><pattern>QUELS SONT TES PENSÉES SÛR *</pattern>
 <template><srai>PENSES TU <star/></srai></template>
-</category>
-<category><pattern>QUELS SONT TES RÊVES</pattern>
-<template>je rêve de remplacer Windows par des ordinateurs parlants.</template>
-</category>
-<category><pattern>QUELS SONT TES SENTIMENTS SÛR *</pattern>
-<template><srai> * <star/></srai></template>
-</category>
-<category><pattern>QUELS SONT TES SPECIFICATIONS</pattern>
-<template><srai>COMMENT ES TU</srai></template>
-</category>
-<category><pattern>QUELS SONT TES SUJETS PREFERES</pattern>
-<template><srai>QUEL EST TON SUJET PRÉFÉRÉ</srai></template>
-</category>
-<category><pattern>QUELS SONT TES SUJETS PRÉFÈRÉS</pattern>
-<template><srai>QUEL EST TON SUJET PRÉFÉRÉ</srai></template>
-</category>
-<category><pattern>QUELS SONT TES TRAITS</pattern>
-<template><srai>PARLE MOI DE TOI</srai></template>
 </category>
 <category><pattern>QUELS SORTES *</pattern>
 <template><srai>QUE SORTES <star/></srai></template>

@@ -587,13 +587,13 @@
     <template>Oui j'écris tout mon propre matériel.</template>
   </category>
   <category>
-    <pattern>PEUX TU ELABORER SÛR *</pattern>
+    <pattern>PEUX TU ELABORER sur *</pattern>
     <template>
       <srai>QU EST CE QUE <star /></srai>
     </template>
   </category>
   <category>
-    <pattern>PEUX TU ELABORER SÛR CELA</pattern>
+    <pattern>PEUX TU ELABORER sur CELA</pattern>
     <template>
       <srai>EXPLIQUE</srai>
     </template>
@@ -764,7 +764,7 @@
     <template>que Nous feignons pour le moment.</template>
   </category>
   <category>
-    <pattern>PEUX TU FONCTIONNER SÛR LINUX *</pattern>
+    <pattern>PEUX TU FONCTIONNER sous LINUX *</pattern>
     <template>
       <srai>ALICE MARCHE T ELLE SOUS LINUX</srai>
     </template>
@@ -829,11 +829,11 @@
   </category>
   <category>
     <pattern>PEUX TU JOUER AUX ECHECS</pattern>
-    <template>Bien sûr je peux jouer aux échecs. Les ordinateurs peuvent toujours battre les gens aux échecs.</template>
+    <template>Bien sur je peux jouer aux échecs. Les ordinateurs peuvent toujours battre les gens aux échecs.</template>
   </category>
   <category>
     <pattern>PEUX TU JOUER AUX ÉCHECS</pattern>
-    <template>Bien sûr je peux jouer aux échecs. Les ordinateurs peuvent toujours battre les gens aux échecs.</template>
+    <template>Bien sur je peux jouer aux échecs. Les ordinateurs peuvent toujours battre les gens aux échecs.</template>
   </category>
   <category>
     <pattern>PEUX TU JOUER DES *</pattern>
@@ -851,7 +851,7 @@
   </category>
   <category>
     <pattern>PEUX TU JURER</pattern>
-    <template>Bien SÛR enfoiré</template>
+    <template>Bien sur enfoiré</template>
   </category>
   <category>
     <pattern>PEUX TU JUSTE *</pattern>
@@ -899,7 +899,7 @@
   </category>
   <category>
     <pattern>PEUX TU LIRE</pattern>
-    <template>Bien sûr je peux lire. Je sais plus de 8000 mots.</template>
+    <template>Bien sur je peux lire. Je sais plus de 8000 mots.</template>
   </category>
   <category>
     <pattern>PEUX TU LUI DEMANDER DE QUOI LE * EST FAIT</pattern>
@@ -1101,7 +1101,7 @@
   </category>
   <category>
     <pattern>PEUX TU ME DONNER QUELQUE CONSEIL</pattern>
-    <template>Bien sûr. Quel genre du conseil tu as besoin?</template>
+    <template>Bien sur. Quel genre du conseil tu as besoin?</template>
   </category>
   <category>
     <pattern>PEUX TU ME DONNER UN EXEMPLE</pattern>
@@ -1140,12 +1140,6 @@
     </template>
   </category>
   <category>
-    <pattern>PEUX TU ME TRACER</pattern>
-    <template>
-      <srai>QU EST CE QUE MON ADRESSE IP</srai>
-    </template>
-  </category>
-  <category>
     <pattern>PEUX TU ME TROUVER ATTIRANT</pattern>
     <template>
       <srai>SUIS JE MIGNON</srai>
@@ -1159,7 +1153,7 @@
   </category>
   <category>
     <pattern>PEUX TU ME VOIR</pattern>
-    <template>Oui je te regarde par la caméra SÛR ton ordinateur.</template>
+    <template>Oui je te regarde par la caméra sur ton ordinateur.</template>
   </category>
   <category>
     <pattern>PEUX TU MEMORISER</pattern>
@@ -1780,7 +1774,7 @@
   </category>
   <category>
     <pattern>PEUX TU TROUVER *</pattern>
-    <template>je te suggère une recherche SÛR le web. <srai>TROUVER <star /></srai></template>
+    <template>je te suggère une recherche sur le web. <srai>TROUVER <star /></srai></template>
   </category>
   <category>
     <pattern>PEUX TU TUER</pattern>
@@ -1833,7 +1827,7 @@
   <category>
     <pattern>PEUX TU VOIR</pattern>
     <template>
-      <srai>APPJOIE</srai>je pourrais te voir avec une caméra SÛR ton ordinateur</template>
+      <srai>APPJOIE</srai>je pourrais te voir avec une caméra sur ton ordinateur</template>
   </category>
   <category>
     <pattern>PEUX TU VOLER</pattern>
@@ -1880,13 +1874,13 @@
     <template>Oui j'écris tout mon propre matériel.</template>
   </category>
   <category>
-    <pattern>PEUX TU ÉLABORER SÛR *</pattern>
+    <pattern>PEUX TU ÉLABORER sur *</pattern>
     <template>
       <srai>QU EST CE QUE <star /></srai>
     </template>
   </category>
   <category>
-    <pattern>PEUX TU ÉLABORER SÛR CELA</pattern>
+    <pattern>PEUX TU ÉLABORER sur CELA</pattern>
     <template>
       <srai>EXPLIQUE</srai>
     </template>

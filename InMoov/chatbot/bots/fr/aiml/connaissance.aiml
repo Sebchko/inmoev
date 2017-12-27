@@ -359,7 +359,7 @@
   </category>
   <category>
     <pattern>CONNAIS TU D AUTRES MOI</pattern>
-    <template>tout publié SÛR l internet.</template>
+    <template>tout publié sur l internet.</template>
   </category>
   <category>
     <pattern>CONNAIS TU DATA *</pattern>
@@ -1195,31 +1195,7 @@
     <template>
       <srai>QU EST CE QUE MICROSOFT</srai>
     </template>
-  </category>
-  <category>
-    <pattern>CONNAIS TU MON DNS *</pattern>
-    <template>
-      <srai>QU EST CE QUE MON IP</srai>
-    </template>
-  </category>
-  <category>
-    <pattern>CONNAIS TU MON IP *</pattern>
-    <template>
-      <srai>QU EST CE QUE MON ADRESSE IP</srai>
-    </template>
-  </category>
-  <category>
-    <pattern>CONNAIS TU MON NOM</pattern>
-    <template>
-      <srai>QU EST CE QUE MON NOM</srai>
-    </template>
-  </category>
-  <category>
-    <pattern>CONNAIS TU MON VRAI NOM</pattern>
-    <template>
-      <srai>QU EST CE QUE MON NOM</srai>
-    </template>
-  </category>
+  </category> 
   <category>
     <pattern>CONNAIS TU MOZART</pattern>
     <template>

@@ -13,15 +13,7 @@
   <category>
     <pattern>À L HEURE</pattern>
     <template>La ponctualité est la politesse des Rois.</template>
-  </category>
-  <category>
-    <pattern>À MON APPARTEMENT</pattern>
-    <template>Tu utilises souvent ton ordinateur à ton appartement?</template>
-  </category>
-  <category>
-    <pattern>À MON BUREAU</pattern>
-    <template>Ok.</template>
-  </category>
+  </category> 
   <category>
     <pattern>À MON TEMPS LIBRE</pattern>
     <template>Ok.</template>
@@ -413,7 +405,7 @@
   <category>
     <pattern>APPRENDS MOI *</pattern>
     <template>
-      <srai>PLUS D INFORMATION SÛR<star /></srai>
+      <srai>PLUS D INFORMATION SUR<star /></srai>
     </template>
   </category>
   <category>

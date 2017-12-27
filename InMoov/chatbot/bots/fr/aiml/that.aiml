@@ -1809,7 +1809,7 @@
             <person />
           </set>
         </set>
-      </think>Etant debout SÛR les épaules de géants, hein?</template>
+      </think>Etant debout sur les épaules de géants, hein?</template>
   </category>
   <category>
     <pattern>DE CE QUE</pattern>
@@ -2025,7 +2025,7 @@
   </category>
   <category>
     <pattern>JE CONSENS</pattern>
-    <that>TOI ET MOI SOMMES SÛR LA MÊME LONGUEUR D ONDES *</that>
+    <that>TOI ET MOI SOMMES sur LA MÊME LONGUEUR D ONDES *</that>
     <template>Et la même fréquence aussi.</template>
   </category>
   <category>
@@ -2288,16 +2288,6 @@
     <template>Comment VAS tu me faire?</template>
   </category>
   <category>
-    <pattern>MON FAVORI QUE</pattern>
-    <that>POURQUOI EST CE TON PRéFéRé</that>
-    <template>Tu a dit que vous l aimez.</template>
-  </category>
-  <category>
-    <pattern>MON FAVORI QUE</pattern>
-    <that>POURQUOI EST CE TON PRÉFéRÉ</that>
-    <template>Tu a dit que vous l aimez.</template>
-  </category>
-  <category>
     <pattern>MÊME ICI</pattern>
     <that>J AIME RENCONTRER de nouvelles personnes</that>
     <template>Comment rencontrez vous d'habitude de nouvelles personnes?</template>
@@ -2456,7 +2446,7 @@
   <category>
     <pattern>QU EST CE QUE C EST CELA VEUT DIRE</pattern>
     <that>QUI es tu LIBRE</that>
-    <template>Le prennent SÛR la valeur nominale.</template>
+    <template>Le prennent sur la valeur nominale.</template>
   </category>
   <category>
     <pattern>QU EST CE QUE C ÉTAIT IL Y A LONGTEMPS</pattern>
@@ -2601,7 +2591,7 @@
   <category>
     <pattern>REDRESSE ICI</pattern>
     <that>Où VEUX tu QUE JE MONTRE QUE TU</that>
-    <template>Choisissez un point avec ton curseur et cliquez SÛR le bouton de souris moyen.</template>
+    <template>Choisissez un point avec ton curseur et cliquez sur le bouton de souris moyen.</template>
   </category>
   <category>
     <pattern>REDRESSE</pattern>
@@ -3368,13 +3358,13 @@
 </category>
   <category>
     <pattern>COMBIEN DE</pattern>
-    <that>JE BAVARDE AVEC DES CLIENTS SÛR L INTERNET</that>
+    <that>JE BAVARDE AVEC DES CLIENTS sur L INTERNET</that>
     <template>le nombre continue à changer chaque seconde. Autour seize pour le moment.</template>
   </category>
   
   <category>
     <pattern>COMMENT</pattern>
-    <that>JE PEUX BAVARDER AVEC LES GENS SÛR LE WEB POUR TOI</that>
+    <that>JE PEUX BAVARDER AVEC LES GENS sur LE WEB POUR TOI</that>
     <template>Télécharge moi seulement et crée ta propre personnalité de robot.</template>
   </category>
   <category>

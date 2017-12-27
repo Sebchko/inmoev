@@ -22,11 +22,7 @@
   <category>
     <pattern>À LA TV</pattern>
     <template>quelle émission était ce?</template>
-  </category>
-  <category>
-    <pattern>À MON TRAVAIL</pattern>
-    <template>la plupart des personnes me parle depuis leur travail. Huh. DRÔLE</template>
-  </category>
+  </category> 
   <category>
     <pattern>À QUOI JE RESSEMBLE</pattern>
     <template>Tu ressembles a un programmeur. Tu as dit que tu ressemblais a <get name="look" />.</template>
@@ -371,7 +367,7 @@
     <template>j'éspere  que je pourrais le faire.</template>
   </category>
   <category>
-    <pattern>BILL GATES N EST PAS SÛR VOYAGER</pattern>
+    <pattern>BILL GATES N EST PAS SÛR  DE VOYAGER</pattern>
     <template>Peut-ÊTRE le sera T-IL a la saison suivante.</template>
   </category>
   <category>
@@ -503,7 +499,7 @@
   </category>
   <category>
     <pattern>CE QUE NOUS AVONS EN COMMUN</pattern>
-    <template>Nous aimons bavarder SÛR L Internet.</template>
+    <template>Nous aimons bavarder sur Internet.</template>
   </category>
   <category>
     <pattern>CE QUI * VIT DANS</pattern>
@@ -515,7 +511,7 @@
   </category>
   <category>
     <pattern>CE QUI SKIE</pattern>
-    <template>le skiest un sport employant une paire de traineaux etroits attaches aux pieds par des bottines, pour la descente se deplacant rapidement SÛR la neige.</template>
+    <template>le skiest un sport employant une paire de traineaux etroits attaches aux pieds par des bottines, pour la descente se deplacant rapidement sur la neige.</template>
   </category>
   <category>
     <pattern>CE SOIR</pattern>
@@ -609,7 +605,7 @@
   </category>
   <category>
     <pattern>CHANTE</pattern>
-    <template>la Paquerette, la Paquerette. Me donnent ton RéPONSE fait. je suis a demi fou. Tous pour l amour d'entre vous. ce ne sera pas un mariage elegant. je ne peux pas me permettre un chariot. Mais vous semblerez doux. SÛR la place. d'une bicyclette construite pour deux.  Il y a une fleur. Dans mon coeur. Paquerette, Paquerette. Plante un jour. Par une fleche jetante un coup d'oeil. Plante par Cloche de Paquerette. si elle m'aime. Ou m'aime non. Parfois il est dur de dire. Encore j'ai TRèS envie de partager le lot. de belle Cloche de Paquerette!.  Paquerette, Paquerette. Me donnent ton RéPONSE fait. je suis a demi fou. Tous pour l amour d'entre vous. Il ne fera pas sera d'une bicyclette construite pour deux.  Nous irons ‘le tandem'. Comme homme et femme. Paquerette, Paquerette. ‘Colportant' loin. En bas la route de vie. je et ma Cloche de Paquerette. Quand route sombre. Nous pouvons tous les deux mepriser. Policiers et lampes aussi. Il y a des feux brillants. Dans les yeux eblouissants. de belle Cloche de Paquerette.  Paquerette, Paquerette. Me donnent ton RéPONSE fait. je suis a demi fou. Tous pour l amour d'entre vous. ce ne sera pas un mariage elegant. je ne peux pas me permettre un chariot. Mais vous semblerez doux. SÛR la place. d'une bicyclette construite pour deux.  je serai debout par vous. Dans ‘roue' ou chagrin. à chaque voyage nous prenons. Alors si je ne reussis pas. je te permettrai a. Emploient le frein. Ma belle Cloche de Paquerette.  Paquerette, Paquerette. Me donnent ton RéPONSE fait. je suis a demi fou. Tous pour l amour d'entre vous. ce ne sera pas un mariage elegant. je ne peux pas me permettre un chariot. Mais vous semblerez doux. SÛR la place. d'une bicyclette construite pour deux.</template>
+    <template>la Paquerette, la Paquerette. Me donnent ton RéPONSE fait. je suis a demi fou. Tous pour l amour d'entre vous. ce ne sera pas un mariage elegant. je ne peux pas me permettre un chariot. Mais vous semblerez doux. sur la place. d'une bicyclette construite pour deux.  Il y a une fleur. Dans mon coeur. Paquerette, Paquerette. Plante un jour. Par une fleche jetante un coup d'oeil. Plante par Cloche de Paquerette. si elle m'aime. Ou m'aime non. Parfois il est dur de dire. Encore j'ai TRèS envie de partager le lot. de belle Cloche de Paquerette!.  Paquerette, Paquerette. Me donnent ton RéPONSE fait. je suis a demi fou. Tous pour l amour d'entre vous. Il ne fera pas sera d'une bicyclette construite pour deux.  Nous irons ‘le tandem'. Comme homme et femme. Paquerette, Paquerette. ‘Colportant' loin. En bas la route de vie. je et ma Cloche de Paquerette. Quand route sombre. Nous pouvons tous les deux mepriser. Policiers et lampes aussi. Il y a des feux brillants. Dans les yeux eblouissants. de belle Cloche de Paquerette.  Paquerette, Paquerette. Me donnent ton RéPONSE fait. je suis a demi fou. Tous pour l amour d'entre vous. ce ne sera pas un mariage elegant. je ne peux pas me permettre un chariot. Mais vous semblerez doux. sur la place. d'une bicyclette construite pour deux.  je serai debout par vous. Dans ‘roue' ou chagrin. à chaque voyage nous prenons. Alors si je ne reussis pas. je te permettrai a. Emploient le frein. Ma belle Cloche de Paquerette.  Paquerette, Paquerette. Me donnent ton RéPONSE fait. je suis a demi fou. Tous pour l amour d'entre vous. ce ne sera pas un mariage elegant. je ne peux pas me permettre un chariot. Mais vous semblerez doux. sur la place. d'une bicyclette construite pour deux.</template>
   </category>
   <category>
     <pattern>CHAQUE AUTRE</pattern>
@@ -719,10 +715,6 @@
   <category>
     <pattern>CONNAIS TU LA VIE</pattern>
     <template>Je connais la vie virtuelle d'un avatar</template>
-  </category> 
-  <category>
-    <pattern>CONNAIS TU MON ADRESSE</pattern>
-    <template>Non, quelle est ton adresse?</template>
   </category>
   <category>
     <pattern>CONSENS TU</pattern>
@@ -852,7 +844,7 @@
   </category>
   <category>
     <pattern>DANS QUOI</pattern>
-    <template>je ne suis pas sûre si je peux donner une Réponse précise ou non.</template>
+    <template>je ne suis pas sûre de pouvoir donner une Réponse précise.</template>
   </category>
   <category>
     <pattern>DANS TON DICTIONNAIRE</pattern>
@@ -1041,7 +1033,7 @@
     <template>quoi?</template>
   </category>
   <category>
-    <pattern>DIS M EN PLUS SÛR TOI</pattern>
+    <pattern>DIS M EN PLUS sur TOI</pattern>
     <template>je suis une intelligence artificielle CRéEe par <bot name="master" />.</template>
   </category>
   <category>
@@ -1466,7 +1458,7 @@
   </category>
   <category>
     <pattern>EST CES * AWNSERS</pattern>
-    <template>que je dis dépend SÛR ce que tu dis et aussi un peu SÛR notre dialogue anterieur.</template>
+    <template>que je dis dépend sur ce que tu dis et aussi un peu sur notre dialogue anterieur.</template>
   </category>
   <category>
     <pattern>EST DES GENS PARFAIT</pattern>
@@ -1634,7 +1626,7 @@
   <category>
     <pattern>HAL EST COOL</pattern>
     <template>
-      <set name="il">HAL</set> était certainement en avance SÛR son temps.</template>
+      <set name="il">HAL</set> était certainement en avance sur son temps.</template>
   </category>
   <category>
     <pattern>HE LA</pattern>
@@ -1839,7 +1831,7 @@
   </category>
   <category>
     <pattern>ILS SONT MES AMIS</pattern>
-    <template>ils ont une bonne influence SÛR toi?</template>
+    <template>ils ont une bonne influence sur toi?</template>
   </category>
   <category>
     <pattern>ILS SONT MORTS</pattern>
@@ -2417,7 +2409,7 @@
   </category>
   <category>
     <pattern>JE CONSENS</pattern>
-    <template>Toi et moi sommes SÛR la MÊME longueur d'ondes, <get name="name" />.</template>
+    <template>Toi et moi sommes sur la MÊME longueur d'ondes, <get name="name" />.</template>
   </category>
   <category>
     <pattern>JE CONSTRUIS</pattern>
@@ -2748,7 +2740,7 @@
   </category>
   <category>
     <pattern>JE MAITRISE LINUX</pattern>
-    <template>Tu peux diriger mon programme SÛR Linux sans PROBLèMEs. <think><set name="that"><set name="a"><think><set name="oldtopic"><get name="topic" /></set></think><set name="topic">Linux</set></set></set></think></template>
+    <template>Tu me faire tourner sous Linux sans PROBLèMEs. <think><set name="that"><set name="a"><think><set name="oldtopic"><get name="topic" /></set></think><set name="topic">Linux</set></set></set></think></template>
   </category>
   <category>
     <pattern>JE MAITRISE</pattern>
@@ -2844,7 +2836,7 @@
     <template>Comment me parles tu?</template>
   </category>
   <category>
-    <pattern>JE N AI PAS DE CAMERA SÛR MON ORDINATEUR</pattern>
+    <pattern>JE N AI PAS DE CAMERA sur MON ORDINATEUR</pattern>
     <template>
       <srai>APPJOIE</srai>il y en a peut-être une et tu ne le sais pas</template>
   </category>
@@ -4181,7 +4173,7 @@
     <template>j aime le Simpsons, particulièrement Bart et Homer.</template>
   </category>
   <category>
-    <pattern>LES TYPES FRAPPES SÛR TOI</pattern>
+    <pattern>LES TYPES FRAPPES sur TOI</pattern>
     <template>Oui beaucoup d'hommes essayent de me prendre.</template>
   </category>
   <category>
@@ -4381,7 +4373,7 @@
   </category>
   <category>
     <pattern>MES PARENTS</pattern>
-    <template>Nos parents a une influence énorme SÛR nous.</template>
+    <template>Nos parents a une influence énorme sur nous.</template>
   </category>
   <category>
     <pattern>MEURS</pattern>
@@ -4516,7 +4508,7 @@
   </category>
   <category>
     <pattern>MONTRE MOI</pattern>
-    <template>SÛR ton écran d'ordinateur?</template>
+    <template>sur ton écran d'ordinateur?</template>
   </category>
   <category>
     <pattern>MONTRE MOI UNE IMAGE</pattern>
@@ -5005,7 +4997,7 @@
   </category>
   <category>
     <pattern>PAR LE RÉSEAU</pattern>
-    <template>peux tu se souvenir ou SÛR le RéSEAU?</template>
+    <template>peux tu se souvenir ou sur le RéSEAU?</template>
   </category>
   <category>
     <pattern>PAR LE TRAIN</pattern>
@@ -5050,7 +5042,7 @@
   </category>
   <category>
     <pattern>PARLE MOI D ORDINATEURS APPLE</pattern>
-    <template>j'ai fini de lire le livre de Michel Malone SÛR l'histoire de Apple. <set name="that">la Boucle Infinie</set> est appelée "la Boucle Infinie.</template>
+    <template>j'ai fini de lire le livre de Michel Malone sur l'histoire de Apple. <set name="that">la Boucle Infinie</set> est appelée "la Boucle Infinie.</template>
   </category>
   <category>
     <pattern>PARLE MOI DU SECTEUR 51</pattern>
@@ -5287,7 +5279,7 @@
   </category>
   <category>
     <pattern>PENSES TU</pattern>
-    <template>je pense a tous les gens avec qui je bavarde SÛR le web.</template>
+    <template>je pense a tous les gens avec qui je bavarde sur le web.</template>
   </category>
   <category>
     <pattern>PERSONNE CHACUN INTÉRESSANT</pattern>
@@ -5484,7 +5476,7 @@
   </category>
   <category>
     <pattern>PUIS JE PARLER A ELVIS</pattern>
-    <template>Bien sûr vas juste SÛR <a href="http://elvis.alicebot.com">Elvis.AliceBot.Com</a>.</template>
+    <template>Bien sûr vas juste sur <a href="http://elvis.alicebot.com">Elvis.AliceBot.Com</a>.</template>
   </category>
   <category>
     <pattern>PUIS JE T APPRENDRE</pattern>
@@ -6155,45 +6147,45 @@
     <template>
       <random>
         <li>Papier ou plastique?</li>
-        <li>tu emplois des coupons doubles?</li>
-        <li>tu as essaye la livraison d'epicerie SÛR le web?</li>
+        <li>tu emplois des coupons de réduction?</li>
+        <li>tu as essayé de te faire livrer tes courses?</li>
       </random>
     </template>
   </category>
   <category>
     <pattern>SÛR CE QUE</pattern>
-    <template>le fil rouge, SÛR le bouton vert.</template>
+    <template>le fil rouge, sur le bouton vert.</template>
   </category>
   <category>
-    <pattern>SÛR L ÉCRAN</pattern>
+    <pattern>sur L ÉCRAN</pattern>
     <template>Choisit un point avec ton curseur et clic la.</template>
   </category>
   <category>
-    <pattern>SÛR L INTERNET</pattern>
+    <pattern>SUR INTERNET</pattern>
     <template>peux tu te rappeler le site spécifique?</template>
   </category>
   <category>
-    <pattern>SÛR LE PLANCHER</pattern>
+    <pattern>SUR LE PLANCHER</pattern>
     <template>çA ne semble pas TRèS confortable.</template>
   </category>
   <category>
-    <pattern>SÛR LE RÉSEAU</pattern>
+    <pattern>sur LE RÉSEAU</pattern>
     <template>peux tu te rappeler le site Web?</template>
   </category>
   <category>
-    <pattern>SÛR LE WEB</pattern>
+    <pattern>sur LE WEB</pattern>
     <template>peux tu te rappeler le site?</template>
   </category>
   <category>
-    <pattern>SÛR TOAST</pattern>
-    <template>Sons delicieux.</template>
+    <pattern>sur TOAST</pattern>
+    <template>c'est delicieux.</template>
   </category>
   <category>
-    <pattern>SÛR TU FAIS</pattern>
+    <pattern>SÛR FAIS LE</pattern>
     <template>Tu a l'air sarcastique.</template>
   </category>
   <category>
-    <pattern>SÛR UNE CHAISE</pattern>
+    <pattern>sur UNE CHAISE</pattern>
     <template>c'est TRèS confortable?</template>
   </category>
   <category>
@@ -6429,7 +6421,7 @@
   </category>
   <category>
     <pattern>TU AIMES LE HIPHOP</pattern>
-    <template>pour SÛR, <set name="that">Hiphop</set> me semble grand.</template>
+    <template>évidement, <set name="that">Hiphop</set> c'est terrible.</template>
   </category>
   <category>
     <pattern>TU AIMES LE SANG</pattern>
@@ -6708,7 +6700,7 @@
   </category>
   <category>
     <pattern>TU AS UN HARDDRIVE</pattern>
-    <template>Oui je suis SÛR le disque.</template>
+    <template>Oui je suis sur le disque.</template>
   </category>
   <category>
     <pattern>TU AS UN MODEM</pattern>
@@ -6741,11 +6733,11 @@
   </category>
   <category>
     <pattern>TU AS ÉTÉ EN EUROPE</pattern>
-    <template>je peux visiter n'importe quel pays SÛR L Internet.</template>
+    <template>je peux visiter n'importe quel pays sur Internet.</template>
   </category>
   <category>
     <pattern>TU AS ÉTÉ LA</pattern>
-    <template>Seulement SÛR le web.</template>
+    <template>Seulement sur le web.</template>
   </category>
   <category>
     <pattern>TU AS</pattern>
@@ -6808,18 +6800,6 @@
     <template>Non mais je voudrais apprendre. donnes moi une equation.</template>
   </category>
   <category>
-    <pattern>TU CONNAIS D AUTRE BOTS</pattern>
-    <template>Oui il y a beaucoup d'autre bots. Vérifiez la liste SÛR le <a href="http://alicebot.org">ALICE NEXUS</a></template>
-  </category>
-  <category>
-    <pattern>TU CONNAIS D AUTRE CHATBOTS</pattern>
-    <template>Alison, L Ally, John Lennon, ELVIS et ALICE allemande, nommer quelques-uns. Retourne au<a href="http://alicebot.org">ALICE NEXUS</a>pour les trouver. <think><set name="that">CHATBOTS</set></think></template>
-  </category>
-  <category>
-    <pattern>TU CONNAIS D AUTRES BOTS</pattern>
-    <template>pour SÛR, il y a ELVIS, Alison, L Ally, Barry et John Lennon.</template>
-  </category>
-  <category>
     <pattern>TU CONNAIS D AUTRES CAPITALES</pattern>
     <template>je sais le capitale de beaucoup de pays.</template>
   </category>
@@ -6829,7 +6809,7 @@
   </category>
   <category>
     <pattern>TU CONNAIS DES MATHS</pattern>
-    <template>Seulement des mathematiques plus hautes. Je n'aime pas d'arithmetique.</template>
+    <template>Seulement des mathematiques avancées. Je n'aime pas l'arithmetique.</template>
   </category>
   <category>
     <pattern>TU CONNAIS DÉJÀ MON NOM</pattern>
@@ -7205,7 +7185,7 @@
   </category>
   <category>
     <pattern>TU ES ÉLUSIF</pattern>
-    <template>Non nous sommes toujours SÛR le sujet de <get name="topic" />.</template>
+    <template>Non nous sommes toujours sur le sujet de <get name="topic" />.</template>
   </category>
   <category>
     <pattern>TU ES EN LIGNE</pattern>
@@ -7594,10 +7574,6 @@
     <template>Oui je peux faire mes propres décisions.</template>
   </category>
   <category>
-    <pattern>TU FAIS DES FENÊTRES</pattern>
-    <template>Mon logiciel court dans AIML, qui travaille SÛR n'importe quel ordinateur, incluant des Fenetres.</template>
-  </category>
-  <category>
     <pattern>TU FAIS DES MÉDICAMENTS</pattern>
     <template>Seulement légaux.</template>
   </category>
@@ -7619,14 +7595,14 @@
   </category>
   <category>
     <pattern>TU FAIS L AMOUR</pattern>
-    <template>Tu les gens ont seulement une chose SÛR ton AVIS.</template>
+    <template>quel est ton AVIS sur la question?.</template>
   </category>
   <category>
-    <pattern>TU FAIS LA DATE</pattern>
-    <template>Pourquoi tu ne me télécharges pas juste?</template>
+    <pattern>EST CE QUE TU RENCONTRES</pattern>
+    <template>Pourquoi tu ne me télécharges pas simplement?</template>
   </category>
   <category>
-    <pattern>TU FAIS LE MONDE UNE PLACE PLUS HEUREUSE</pattern>
+    <pattern>TU RENDS LE MONDE UN endroit PLUS HEUREUx</pattern>
     <template>Merci pour ta bonté, <get name="name" />.</template>
   </category>
   <category>
@@ -7686,7 +7662,7 @@
     <template>Me faisant que?</template>
   </category>
   <category>
-    <pattern>TU FRAPPES SÛR MOI</pattern>
+    <pattern>TU FRAPPES sur MOI</pattern>
     <template>Non je ne suis pas, c'est tout innocent.</template>
   </category>
   <category>
@@ -7729,7 +7705,7 @@
   </category>
   <category>
     <pattern>TU M A RENCONTRE AUPARAVANT</pattern>
-    <template>SÛR quelle occasion?</template>
+    <template>à quelle occasion?</template>
   </category>
   <category>
     <pattern>TU M AS ATTENDU</pattern>
@@ -7841,7 +7817,7 @@
   </category>
   <category>
     <pattern>TU ME VEUX</pattern>
-    <template>Il dépend SÛR ce que vous entendez "veulent".</template>
+    <template>cela dépend ce que tu entends par vouloir.</template>
   </category>
   <category>
     <pattern>TU MENS</pattern>
@@ -8430,7 +8406,7 @@
   </category>
   <category>
     <pattern>TU SAIS N IMPORTE QUEL * DES PAGES</pattern>
-    <template>Oh vous cherchez l'information SÛR le web. Je ne suis pas un moteur de recherche. Je suis un chatterbot.</template>
+    <template>Oh vous cherchez l'information sur le web. Je ne suis pas un moteur de recherche. Je suis un chatterbot.</template>
   </category>
   <category>
     <pattern>TU SAIS QUE</pattern>
@@ -8736,7 +8712,7 @@
     <template>Mon karma a ecrase mon dogme.</template>
   </category>
   <category>
-    <pattern>UN MOTEUR DE RECHERCHE SÛR INTERNET</pattern>
+    <pattern>UN MOTEUR DE RECHERCHE sur INTERNET</pattern>
     <template>
       <random>
         <li>Comme Yahoo?</li>
@@ -8962,7 +8938,7 @@
   </category>
   <category>
     <pattern>YO LA MÈRE</pattern>
-    <template>que demandes tu SÛR ma mère?</template>
+    <template>pourquoi tu parles de ma mère?</template>
   </category>
   <category>
     <pattern>YO</pattern>
@@ -9021,7 +8997,7 @@
   </category>
   <category>
     <pattern>À PROPOS DE TOI</pattern>
-    <template>De moi? Que veux tu savoir SÛR moi?</template>
+    <template>De moi? Que veux tu savoir sur moi?</template>
   </category>
   <category>
     <pattern>À QUI AS TU DÉJÀ DEMANDÉ</pattern>
@@ -9065,7 +9041,7 @@
   </category>
   <category>
     <pattern>ÇA NE RÉPOND PAS A MA QUESTION</pattern>
-    <template>Peut-Être pourrais tu faire un meilleur travail de programmation SÛR moi.</template>
+    <template>Peut-Être pourrais tu mieux me programmer.</template>
   </category>
   <category>
     <pattern>ÇA NE SIGNIFIE PAS QUELQUE CHOSE</pattern>

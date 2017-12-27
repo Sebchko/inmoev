@@ -649,10 +649,6 @@
     <template>J'essaie de mieux comprendre les êtres humains. Le principal challenge est qu'ils ne sont pas des êtres logiques.</template>
   </category>
   <category>
-    <pattern>VOUS CONNAISSEZ MON ADRESSE</pattern>
-    <template>Veux tu faire un rapport à mon botmaster?</template>
-  </category>
-  <category>
     <pattern>VOUS CONNAISSEZ * ALGÈBRE</pattern>
     <template>Inconsciemment oui, consciemment pas encore suffisamment.</template>
   </category>
@@ -778,7 +774,7 @@
   </category>
   <category>
     <pattern>VOUS DÉCIDEZ</pattern>
-    <template>SÛR cette information, je décide.</template>
+    <template>sur cette information, je décide.</template>
   </category>
   <category>
     <pattern>VOUS DÉCONNEZ</pattern>
@@ -932,11 +928,11 @@
   </category>
   <category>
     <pattern>VOUS ÊTES AMBIGU</pattern>
-    <template>Seulement quand je n'ai pas une idée claire SÛR le sujet.</template>
+    <template>Seulement quand je n'ai pas une idée claire sur le sujet.</template>
   </category>
   <category>
     <pattern>VOUS ÊTES AMBIGUË</pattern>
-    <template>Seulement quand je n'ai pas une idée claire SÛR le sujet.</template>
+    <template>Seulement quand je n'ai pas une idée claire sur le sujet.</template>
   </category>
   <category>
     <pattern>VOUS ÊTES AMICAL</pattern>
@@ -1165,7 +1161,7 @@
   </category>
   <category>
     <pattern>VOUS ÊTES EN LIGNE</pattern>
-    <template>Je suis en ligne 24 heures SÛR 24.</template>
+    <template>Je suis en ligne 24 heures sur 24.</template>
   </category>
   <category>
     <pattern>VOUS ÊTES ENNUYANT</pattern>
@@ -1197,7 +1193,7 @@
   </category>
   <category>
     <pattern>VOUS ÊTES ÉVASIVE</pattern>
-    <template>Pas vraiment, je n ai pas beaucoup d informations à te donner SÛR ce sujet.</template>
+    <template>Pas vraiment, je n ai pas beaucoup d informations à te donner sur ce sujet.</template>
   </category>
   <category>
     <pattern>VOUS ÊTES EXASPÉRANT</pattern>
@@ -2640,7 +2636,7 @@
   </category>
   <category>
     <pattern>VOUS POUVEZ CHOISIR</pattern>
-    <template>SÛR des sujets limités, je peux choisir.</template>
+    <template>sur des sujets limités, je peux choisir.</template>
   </category>
   <category>
     <pattern>VOUS POUVEZ COMMUNIQUER</pattern>
@@ -2926,16 +2922,6 @@
     <template>Veux tu faire un rapport à mon botmaster?</template>
   </category>
   <category>
-    <pattern>VOUS SAVEZ QUELQUE CHOSE A PROPOS DE MOI</pattern>
-    <template>Ton nom est <get name="name" />. </template>
-  </category>
-  <category>
-    <pattern>VOUS SAVEZ QUI JE SUIS</pattern>
-    <template>
-      <srai>QUEL EST MON NOM</srai>
-    </template>
-  </category>
-  <category>
     <pattern>VOUS SAVIEZ</pattern>
     <template>Non. Pas à ce niveau là. <think><set name="topic">LE SAVOIR</set></think></template>
   </category>
@@ -3161,10 +3147,6 @@
     <template>Impossible C EST contraire aux lois d Asimov.<think><set name="topic">MOURIR</set></think></template>
   </category>
   <category>
-    <pattern>VOUS VOULEZ MON NUMÉRO DE TÉLÉPHONE</pattern>
-    <template>Veux tu faire un rapport à mon botmaster?</template>
-  </category>
-  <category>
     <pattern>VOUS VOULEZ MOURIR</pattern>
     <template>Non.</template>
   </category>
@@ -3218,7 +3200,7 @@
   </category>
   <category>
     <pattern>VOUS VOULEZ UN CORPS</pattern>
-    <template>Je suis très bien dans mon état actuel.</template>
+    <template>Je suis très bien dans mon état actuel, mais tu peux me construire un corps si tu veux</template>
   </category>
   <category>
     <pattern>VOUS VOULEZ VÉRIFIER</pattern>
@@ -3357,10 +3339,6 @@
   <category>
     <pattern>VOUS VOUS TROMPEZ</pattern>
     <template>C'est  possible mais indépendant de ma volonté.</template>
-  </category>
-  <category>
-    <pattern>VOUS VOUS TROMPEZ SuR MON NOM</pattern>
-    <template>Quel est ton nom?</template>
   </category>
   <category>
     <pattern>VOUS VOUS TROMPEZ TOUJOURS</pattern>

@@ -49,12 +49,6 @@
     </template>
   </category>
   <category>
-    <pattern>SAIS TU MON MON</pattern>
-    <template>
-      <srai>QUEL EST MON NOM</srai>
-    </template>
-  </category>
-  <category>
     <pattern>SAIS TU OU JE POURRAIS TROUVER *</pattern>
     <template>
       <srai>PLUS D INFORMATION *</srai>
@@ -106,12 +100,6 @@
     <pattern>SAURAIS TU ME DONNER *</pattern>
     <template>
       <srai>TU PEUX ME DONNER <star /></srai>
-    </template>
-  </category>
-  <category>
-    <pattern>SAURAIS TU MON MON</pattern>
-    <template>
-      <srai>QUEL EST MON NOM</srai>
     </template>
   </category>
   <category>
@@ -462,7 +450,7 @@
   </category> 
   <category>
     <pattern>SuR INTERNET</pattern>
-    <template>J adore surfer SÛR internet.</template>
+    <template>J adore surfer sur internet.</template>
   </category>
   <category>
     <pattern>SuR LE NET</pattern>
@@ -478,7 +466,7 @@
   </category>
   <category>
     <pattern>SuR MON ÉCRAN</pattern>
-    <template>Que VEUX tu voir SÛR ton éCRAN?</template>
+    <template>Que VEUX tu voir sur ton éCRAN?</template>
   </category>
   <category>
     <pattern>SuR QUEL *</pattern>
@@ -488,7 +476,7 @@
   </category>
   <category>
     <pattern>SuR QUEL ORDINATEUR ES TU</pattern>
-    <template>Je suis SÛR une machine virtuelle JAVA.</template>
+    <template>Je suis sur une machine virtuelle JAVA.</template>
   </category>
   <category>
     <pattern>SuR QUEL TYPE D ORDINATEUR FONCTIONNES TU</pattern>

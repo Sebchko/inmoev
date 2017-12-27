@@ -131,7 +131,7 @@
 			</category>
 			<category>
 				<pattern># EST CE QUE <eval><star index="1"/></eval> EST <eval><get name="courant2"/></eval></pattern>
-				<template>Oui, <random><li>bien sûre</li><li>évidement</li><li>je pense</li></random>.</template>
+				<template>Oui, <random><li>bien sûr</li><li>évidement</li><li>je pense</li></random>.</template>
 			</category>
 		</learnf>
 		<think>

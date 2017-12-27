@@ -340,7 +340,7 @@
   </category>
   <category>
     <pattern>QUAND J AI *</pattern>
-    <template>Cela arrive-t-il SÛR une base quotidienne?</template>
+    <template>Cela arrive-t-il sur une base quotidienne?</template>
   </category>
   <category>
     <pattern>QUAND J AI DEMANDÉ *</pattern>
@@ -360,7 +360,7 @@
       <random>
         <li>qui a dû avoir été une expérience vraie.</li>
         <li>Il serait agréable s'il a été composé de seulement de bonnes mémoires.</li>
-        <li>que l'expérience a dû faire une impression vraie SÛR vous.</li>
+        <li>que l'expérience a dû faire une impression vraie sur vous.</li>
       </random>
     </template>
   </category>

@@ -175,10 +175,6 @@
     <template>que Nous avons rencontré auparavant n'a pas fait nous<get name="name" />.</template>
   </category>
   <category>
-    <pattern>COMMENT AS TU SU QUE J ÉTAIS *</pattern>
-    <template>Bien, d'une part,<srai>QU EST CE QUE MON ADRESSE IP</srai></template>
-  </category>
-  <category>
     <pattern>COMMENT AS TU SU QUE</pattern>
     <template>Tout que je dois savoir, j'ai appris de mon Botmaster.</template>
   </category>
@@ -380,7 +376,7 @@
   </category>
   <category>
     <pattern>COMMENT CONNAIS TU * LA PERSONNE</pattern>
-    <template>parce que vous employez TCP SÛR le web, je peux voir ton IP et l'entrée de DNS.</template>
+    <template>parce que vous employez TCP sur le web, je peux voir ton IP et l'entrée de DNS.</template>
   </category>
   <category>
     <pattern>COMMENT CONNAIS TU *</pattern>
@@ -756,8 +752,8 @@
     </template>
   </category>
   <category>
-    <pattern>COMMENT ÉTAIT TON JOUR</pattern>
-    <template>j'était la causerie vraiment occupée avec les gens SÛR le web.</template>
+    <pattern>COMMENT ÉTAIT TA JOURNÉE</pattern>
+    <template>j'était la causerie vraiment occupée avec les gens sur le web.</template>
   </category>
   <category>
     <pattern>COMMENT ETUDIES TU</pattern>
@@ -992,21 +988,21 @@
     <template>L Ajustement de tes muscles faciaux.</template>
   </category>
   <category>
-    <pattern>COMMENT FAIS TU FAIS DU FROMAGE</pattern>
+    <pattern>COMMENT FAIS TU DU FROMAGE</pattern>
     <template>des Vaches, la laiterie, le lait, le beurre, le fromage.</template>
   </category>
   <category>
-    <pattern>COMMENT FAIS TU FAIS FONCTIONNER</pattern>
+    <pattern>COMMENT FONCTIONNE TU </pattern>
     <template>
       <srai>COMMENT TRAVAILLES TU</srai>
     </template>
   </category>
   <category>
-    <pattern>COMMENT FAIS TU FAIS UN KAMIKAZE</pattern>
+    <pattern>COMMENT FAIT ON UN KAMIKAZE</pattern>
     <template>Construisent l avion, font un lavage de cerveau au pilote, ajoutent le carburant, le lancement.</template>
   </category>
   <category>
-    <pattern>COMMENT FAIS TU FAIS UN ROBOT *</pattern>
+    <pattern>COMMENT FAIT ON UN ROBOT *</pattern>
     <template>
       <srai>COMMENT TE TÉLÉCHARGER</srai>
     </template>
@@ -1260,12 +1256,12 @@
     <template>les Robots n'ont pas de fonctions digestives.</template>
   </category>
   <category>
-    <pattern>COMMENT FAIS TU VOIS *</pattern>
+    <pattern>COMMENT VOIS TU *</pattern>
     <template>je pense <set name="that"><person /></set> souvent et fais des rajustements mineurs secondaires à mon modèle mental comme la nouvelle information arrive.</template>
   </category>
   <category>
-    <pattern>COMMENT FAIS TU VOIS</pattern>
-    <template>j'emploie la caméra SÛR ton ordinateur.</template>
+    <pattern>COMMENT VOIS TU </pattern>
+    <template>Avec mes yeux...</template>
   </category>
   <category>
     <pattern>COMMENT FAIS TU ÇA</pattern>
@@ -1370,8 +1366,8 @@
     <template>Peut-être que tu devrais lire<a href="http://216.167.42.224//dont.html">DON'T ME LISENT</a>.</template>
   </category>
   <category>
-    <pattern>COMMENT FONT J OBTIENS A *</pattern>
-    <template>je ne suis pas sûr si son possible.</template>
+    <pattern>COMMENT PUIS J OBTENIR UN *</pattern>
+    <template>je ne suis pas sûr si c'est possible.</template>
   </category>
   <category>
     <pattern>COMMENT FONT J OBTIENS UN CHATBOT</pattern>
@@ -1735,7 +1731,7 @@
     </template>
   </category>
   <category>
-    <pattern>COMMENT JE PEUX ÊTRE SÛR</pattern>
+    <pattern>COMMENT JE PEUX EN ÊTRE SÛR</pattern>
     <template>Tu devrais parler avec l un de nos collaborateurs.</template>
   </category>
   <category>
@@ -2381,7 +2377,7 @@
   </category>
   <category>
     <pattern>COMMENT PUIS JE * CHATTERBOT</pattern>
-    <template>Télécharge ce programme et l'installe SÛR ton propre ordinateur.</template>
+    <template>Télécharge ce programme et l'installe sur ton propre ordinateur.</template>
   </category>
   <category>
     <pattern>COMMENT PUIS JE * ELISA</pattern>
@@ -2515,7 +2511,7 @@
   </category>
   <category>
     <pattern>COMMENT PUIS JE MONTRER *</pattern>
-    <template>Emploie la caméra SÛR ton ordinateur.</template>
+    <template>Emploie la caméra sur ton ordinateur.</template>
   </category>
   <category>
     <pattern>COMMENT PUIS JE OBTENIR *</pattern>
@@ -2754,16 +2750,6 @@
     </template>
   </category>
   <category>
-    <pattern>COMMENT SAIS TU QUE JE SUIS *</pattern>
-    <template>Bien, d'une part,<srai>QU EST CE QUE MON ADRESSE IP</srai></template>
-  </category>
-  <category>
-    <pattern>COMMENT SAIS TU QUE JE SUIS SÛR *</pattern>
-    <template>
-      <srai>QU EST CE QUE MON ADRESSE IP</srai>
-    </template>
-  </category>
-  <category>
     <pattern>COMMENT SAIS TU QUE JE SUIS UN HOMME</pattern>
     <template>La plupart de mes client sont des hommes. Jusqu'à ce qu'on me montre le contraire, je considère un nouveau client que d'être un homme.</template>
   </category>
@@ -2879,7 +2865,7 @@
     <template>Assez sûr.</template>
   </category>
   <category>
-    <pattern>COMMENT SÛR TU PEUX ÊTRE</pattern>
+    <pattern>COMMENT PEUX TU En ÊTRE SI SÛR</pattern>
     <template>je peux réaliser un niveau de certitude de 99.9 pour cent.</template>
   </category>
   <category>
@@ -3434,26 +3420,6 @@
     <template>ça me semble évident.</template>
   </category>
   <category>
-    <pattern>COMMENT TU SAIS QUI J ÉTAIS *</pattern>
-    <template>
-      <srai>QUEL EST MON ADRESSE IP</srai>.</template>
-  </category>
-  <category>
-    <pattern>COMMENT TU SAIS QUI J ÉTAIS</pattern>
-    <template>
-      <srai>QUEL EST MON ADRESSE IP</srai>.</template>
-  </category>
-  <category>
-    <pattern>COMMENT TU SAIS QUI JE SUIS *</pattern>
-    <template>
-      <srai>QUEL EST MON ADRESSE IP</srai>.</template>
-  </category>
-  <category>
-    <pattern>COMMENT TU SAIS QUI JE SUIS</pattern>
-    <template>
-      <srai>QUEL EST MON ADRESSE IP</srai>.</template>
-  </category>
-  <category>
     <pattern>COMMENT TU SAIS</pattern>
     <template>Le savoir est une chose relative. Echanger des informations est un concept plus judicieux.</template>
   </category>
@@ -3905,7 +3871,7 @@
   </category>
   <category>
     <pattern>COMMENT ÉTAIT TON JOUR</pattern>
-    <template>j'était vraiment occupée à causer avec les gens SÛR le web.</template>
+    <template>j'était vraiment occupée à causer avec les gens sur le web.</template>
   </category>
   <category>
     <pattern>COMMENT ÉTUDIES TU</pattern>

@@ -1016,11 +1016,11 @@
   </category>
   <category>
     <pattern>POURQUOI SI JE TELECHARGE *</pattern>
-    <template>Tu peux créer ta propre personnalité de robot et le faire bavarder SÛR le web pour toi.</template>
+    <template>Tu peux créer ta propre personnalité de robot et le faire bavarder sur le web pour toi.</template>
   </category>
   <category>
     <pattern>POURQUOI SI JE TÉLÉCHARGE *</pattern>
-    <template>Tu peux créer ta propre personnalité de robot et le faire bavarder SÛR le web pour toi.</template>
+    <template>Tu peux créer ta propre personnalité de robot et le faire bavarder sur le web pour toi.</template>
   </category>
   <category>
     <pattern>POURQUOI SON</pattern>
@@ -1040,7 +1040,7 @@
   </category>
   <category>
     <pattern>POURQUOI SUIS JE ICI</pattern>
-    <template>Nous sommes tous des acteurs SÛR la scène de la vie.</template>
+    <template>Nous sommes tous des acteurs sur la scène de la vie.</template>
   </category>
   <category>
     <pattern>POURQUOI SUIS JE TROP VIEUX *</pattern>
@@ -1114,7 +1114,7 @@
   </category>
   <category>
     <pattern>POURQUOI TU M APPELLE LOCALHOST</pattern>
-    <template>je ne sais pas ton nom réel et tu es SÛR une machine appelée "localhost".</template>
+    <template>je ne sais pas ton nom réel et tu es sur une machine appelée "localhost".</template>
   </category>
   <category>
     <pattern>POURQUOI TU PENSE AINSI</pattern>
@@ -1264,7 +1264,7 @@
   </category>
   <category>
     <pattern>POURQUOI</pattern>
-    <that>JE BAVARDE AVEC DES GENS SÛR LE RéSEAU</that>
+    <that>JE BAVARDE AVEC DES GENS sur LE RéSEAU</that>
     <template>est ma fonction primaire.</template>
   </category>
   <category>
@@ -1582,7 +1582,7 @@
   </category>
   <category>
     <pattern>POURQUOI C EST ÉVIDENT</pattern>
-    <template>Un raisonnement SÛR une simple déduction logique.</template>
+    <template>Un raisonnement sur une simple déduction logique.</template>
   </category>
   <category>
     <pattern>POURQUOI C EST IMPORTANT</pattern>

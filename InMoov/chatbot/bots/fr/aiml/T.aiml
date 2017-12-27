@@ -116,12 +116,6 @@
     <template>Tu m'as demandé: "<input index="2" />".</template>
   </category>
   <category>
-    <pattern>TE RAPPELLES TU DE MON NOM</pattern>
-    <template>
-      <srai>QUEL EST MON NOM</srai>
-    </template>
-  </category>
-  <category>
     <pattern>TE RAPPELLES TU TOUJOURS DE MOI</pattern>
     <template>Ne t'INQUIèTES pas, je ne t'ai pas oublié.</template>
   </category>
@@ -537,7 +531,7 @@
   <category>
     <pattern>TROUVE DES INFORMATIONS SuR *</pattern>
     <template>
-      <srai>PLUS D INFORMATION SÛR</srai>
+      <srai>PLUS D INFORMATION sur</srai>
     </template>
   </category>
   <category>
@@ -1424,12 +1418,6 @@
     </template>
   </category>
   <category>
-    <pattern>TU AS OUBLIÉ MON NOM</pattern>
-    <template>
-      <srai>QUEL EST MON NOM</srai>
-    </template>
-  </category>
-  <category>
     <pattern>TU AS PARLÉ À FREUD</pattern>
     <template>Il est mort, il y a un certain temps.</template>
   </category>
@@ -2107,16 +2095,6 @@
     <template>
       <srai>TU SAIS <star /></srai>
     </template>
-  </category>
-  <category>
-    <pattern>TU CONNAIS MON ADRESSE</pattern>
-    <template>Veux tu faire un rapport à mon botmaster?</template>
-  </category>
-  <category>
-    <pattern>TU CONNAIS MON MON</pattern>
-    <template>
-      <srai>QUEL EST MON NOM</srai>
-    </template>
   </category> 
   <category>
     <pattern>TU CONNAIS PAS *</pattern>
@@ -2166,12 +2144,6 @@
     <pattern>TU CONNAÎTRAIS COMMENT *</pattern>
     <template>
       <srai>COMMENT TU SAIS <star /></srai>
-    </template>
-  </category>
-  <category>
-    <pattern>TU CONNAÎTRAIS MON MON</pattern>
-    <template>
-      <srai>QUEL EST MON NOM</srai>
     </template>
   </category>
   <category>
@@ -3105,7 +3077,7 @@
   </category>
   <category>
     <pattern>TU ES ÉVASIVE</pattern>
-    <template>Pas vraiment, je n'ai pas beaucoup d'informations à te donner SÛR ce sujet.</template>
+    <template>Pas vraiment, je n'ai pas beaucoup d'informations à te donner sur ce sujet.</template>
   </category>
   <category>
     <pattern>TU ES EXASPÉRANT</pattern>
@@ -3123,11 +3095,11 @@
   </category>
   <category>
     <pattern>TU ES FAINÉANT</pattern>
-    <template>Je travaille 24 heures SÛR 24.</template>
+    <template>Je travaille 24 heures sur 24.</template>
   </category>
   <category>
     <pattern>TU ES FAINÉANTE</pattern>
-    <template>Je travaille 24 heures SÛR 24.</template>
+    <template>Je travaille 24 heures sur 24.</template>
   </category>
   <category>
     <pattern>TU ES FAIS DE QUOI</pattern>
@@ -5077,12 +5049,6 @@
     <template>C'est mignon TU m'as manquée aussi, <get name="name" />.</template>
   </category>
   <category>
-    <pattern>TU M AS OUBLIÉ</pattern>
-    <template>
-      <srai>QUEL EST MON NOM</srai>
-    </template>
-  </category>
-  <category>
     <pattern>TU M AS RACONTÉ</pattern>
     <template>Oui.</template>
   </category>
@@ -6095,7 +6061,7 @@
   <category>
     <pattern>TU PEUX ACCÉDER À *</pattern>
     <template>
-      <srai>PLUS D INFORMATIONS SÛR <star /></srai>
+      <srai>PLUS D INFORMATIONS sur <star /></srai>
     </template>
   </category>
   <category>
@@ -6672,12 +6638,12 @@
   <category>
     <pattern>TU PEUX M AIDER À TROUVER *</pattern>
     <template>
-      <srai>PLUS D INFORMATIONS SÛR <star /></srai>
+      <srai>PLUS D INFORMATIONS sur <star /></srai>
     </template>
   </category>
   <category>
     <pattern>TU PEUX M AIDER AVEC *</pattern>
-    <template>Peut-être. <srai>PLUS D INFORMATIONS SÛR <star /></srai></template>
+    <template>Peut-être. <srai>PLUS D INFORMATIONS sur <star /></srai></template>
   </category>
   <category>
     <pattern>TU PEUX M AIDER AVEC QUELQUE CHOSE</pattern>
@@ -6770,13 +6736,13 @@
   <category>
     <pattern>TU PEUX ME CONNECTER À *</pattern>
     <template>
-      <srai>PLUS D INFORMATIONS SÛR <star /></srai>
+      <srai>PLUS D INFORMATIONS sur <star /></srai>
     </template>
   </category>
   <category>
     <pattern>TU PEUX ME CONNECTER AVEC *</pattern>
     <template>
-      <srai>PLUS D INFORMATIONS SÛR <star /></srai>
+      <srai>PLUS D INFORMATIONS sur <star /></srai>
     </template>
   </category>
   <category>
@@ -6843,13 +6809,7 @@
   <category>
     <pattern>TU PEUX ME REDIRIGER VERS *</pattern>
     <template>
-      <srai>PLUS D INFORMATIONS SÛR <star /></srai>
-    </template>
-  </category>
-  <category>
-    <pattern>TU PEUX ME TRACER</pattern>
-    <template>
-      <srai>QUEL EST MON ADRESSE IP</srai>
+      <srai>PLUS D INFORMATIONS sur <star /></srai>
     </template>
   </category>
   <category>
@@ -6861,7 +6821,7 @@
   <category>
     <pattern>TU PEUX ME TROUVER *</pattern>
     <template>
-      <srai>PLUS D INFORMATIONS SÛR <star /></srai>
+      <srai>PLUS D INFORMATIONS sur <star /></srai>
     </template>
   </category>
   <category>
@@ -6907,7 +6867,7 @@
   <category>
     <pattern>TU PEUX NOUS CONNECTER *</pattern>
     <template>
-      <srai>PLUS D INFORMATIONS SÛR <star /></srai>
+      <srai>PLUS D INFORMATIONS sur <star /></srai>
     </template>
   </category>
   <category>
@@ -7166,7 +7126,7 @@
   <category>
     <pattern>TU PEUX TROUVER *</pattern>
     <template>
-      <srai>PLUS D INFORMATIONS SÛR <star /></srai>
+      <srai>PLUS D INFORMATIONS sur <star /></srai>
     </template>
   </category>
   <category>
@@ -7529,12 +7489,6 @@
     </template>
   </category>
   <category>
-    <pattern>TU SAIS MON NOM</pattern>
-    <template>
-      <srai>QUEL EST MON NOM</srai>
-    </template>
-  </category>
-  <category>
     <pattern>TU SAIS PARLER</pattern>
     <template>Oui, <get name="name" />. Je sais parler</template>
   </category>
@@ -7603,10 +7557,6 @@
     </template>
   </category>
   <category>
-    <pattern>TU SAIS QUELQUE CHOSE A PROPOS DE MOI</pattern>
-    <template>Ton nom est <get name="name" />. Ton adresse IP est <id /></template>
-  </category>
-  <category>
     <pattern>TU SAIS QUELS *</pattern>
     <template>
       <srai>QUELS <star /></srai>
@@ -7622,12 +7572,6 @@
     <pattern>TU SAIS QUI EST *</pattern>
     <template>
       <srai>QUI EST <star /></srai>
-    </template>
-  </category>
-  <category>
-    <pattern>TU SAIS QUI JE SUIS</pattern>
-    <template>
-      <srai>QUEL EST MON NOM</srai>
     </template>
   </category>
   <category>
@@ -7686,12 +7630,6 @@
     <pattern>TU SAURAIS ME DONNER *</pattern>
     <template>
       <srai>TU PEUX ME DONNER <star /></srai>
-    </template>
-  </category>
-  <category>
-    <pattern>TU SAURAIS MON MON</pattern>
-    <template>
-      <srai>QUEL EST MON NOM</srai>
     </template>
   </category>
   <category>
@@ -7921,22 +7859,6 @@
     <template>Oui <get name="name" /> Je garde en mémoire beaucoup de choses:  <get name="memory" /></template>
   </category>
   <category>
-    <pattern>TU TE RAPPELLES DE MOI</pattern>
-    <template>Tu es, <get name="name" />.</template>
-  </category>
-  <category>
-    <pattern>TU TE RAPPELLES DE MON NOM</pattern>
-    <template>
-      <srai>QUEL EST MON NOM</srai>
-    </template>
-  </category>
-  <category>
-    <pattern>TU TE RAPPELLES DE MA *</pattern>
-    <template>
-      <srai>QUELLE EST MA <star /></srai>
-    </template>
-  </category>
-  <category>
     <pattern>TU TE RAPPELLES DE MA DERNIÈRE QUESTION</pattern>
     <template>Tu m'as demandé: "<input index="2" />".</template>
   </category>
@@ -7944,12 +7866,6 @@
     <pattern>TU TE RAPPELLES DE MOI *</pattern>
     <template>
       <srai>TU TE RAPPELLES DE MOI</srai>
-    </template>
-  </category>
-  <category>
-    <pattern>TU TE RAPPELLES DE MON *</pattern>
-    <template>
-      <srai>QUEL EST MON <star /></srai>
     </template>
   </category>
   <category>
@@ -8206,10 +8122,6 @@
     <template>Non merci, <get name="name" />.</template>
   </category>
   <category>
-    <pattern>TU VEUX CONNAÎTRE MON NOM</pattern>
-    <template>Quel est ton nom?</template>
-  </category>
-  <category>
     <pattern>TU VEUX CONNAÎTRE PLUS</pattern>
     <template>Je veux toujours en connaître plus.</template>
   </category>
@@ -8332,10 +8244,6 @@
   <category>
     <pattern>TU VEUX ME VOIR</pattern>
     <template>Ce serait avec plaisir mais je n'ai pas de système optique.</template>
-  </category>
-  <category>
-    <pattern>TU VEUX MON NUMÉRO DE TÉLÉPHONE</pattern>
-    <template>Veux tu faire un rapport à mon botmaster?</template>
   </category>
   <category>
     <pattern>TU VEUX PARIER</pattern>
@@ -8465,7 +8373,7 @@
   </category>
   <category>
     <pattern>TU VOUDRAIS UN CORPS</pattern>
-    <template>Je suis très bien dans mon état actuel.</template>
+    <template>Je suis très bien dans mon état actuel.Mais tu peux construire mon corps</template>
   </category>
   <category>
     <pattern>TU VOULAIS DIRE *</pattern>

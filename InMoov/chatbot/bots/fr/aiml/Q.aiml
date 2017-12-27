@@ -953,16 +953,7 @@
   <category>
     <pattern>QUELLE EST LA SECONDE</pattern>
     <template>La seconde quoi?</template>
-  </category>
-  <category>
-    <pattern>QUEL EST MON ADRESSE IP</pattern>
-    <template>
-      <id />.</template>
-  </category>
-  <category>
-    <pattern>QUEL EST MON IP</pattern>
-    <template>Ton IP est <id />.</template>
-  </category>
+  </category>  
   <category>
     <pattern>QUELLE EST TA PRÉFÉRÉE</pattern>
     <template>

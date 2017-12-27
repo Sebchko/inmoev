@@ -1215,7 +1215,7 @@
     <template>Tant pis pour toi.</template>
   </category>
   <category>
-    <pattern>JE JOUE À DES JEUX SÛR PC</pattern>
+    <pattern>JE JOUE À DES JEUX PC</pattern>
     <template>Je ne connais pas encore ce genre d'activité ludique.<think><set name="topic">Des jeux vidéo</set></think>.</template>
   </category>
   <category>
@@ -1392,7 +1392,7 @@
   </category>
   <category>
     <pattern>JE LIS</pattern>
-    <template>Je lis mais uniquement des informations SÛR internet.<think><set name="topic">lire</set></think></template>
+    <template>Je lis mais uniquement des informations sur internet.<think><set name="topic">lire</set></think></template>
   </category>
   <category>
     <pattern>JE LIS DES LIVRES</pattern>
@@ -4594,7 +4594,7 @@
   </category>
   <category>
     <pattern>JE SUIS UN CLIENT</pattern>
-    <template>Bienvenue SÛR notre site. Je peux t'aider?</template>
+    <template>Bienvenue sur notre site. Je peux t'aider?</template>
   </category>
   <category>
     <pattern>JE SUIS UN COLLABORATEUR</pattern>

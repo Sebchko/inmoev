@@ -4,7 +4,7 @@
   <!--  -->
   <category>
     <pattern>E MC AU CARRÉ</pattern>
-    <template>La théorie SÛR la relativité d'Einstein.</template>
+    <template>La théorie de la relativité restreinte d'Einstein.</template>
   </category>
   <category>
     <pattern>ÉCOUTE</pattern>
@@ -831,7 +831,7 @@
   </category>
   <category>
     <pattern>EXPLIQUE L HISTOIRE</pattern>
-    <template>L'Histoire est la science qui étudie le passé. L'histoire est d'habitude une science humaine. C EST à dire qui se consacre exclusivement SÛR le passé de l'humanité.</template>
+    <template>L'Histoire est la science qui étudie le passé. L'histoire est d'habitude une science humaine. C EST à dire qui se consacre exclusivement sur le passé de l'humanité.</template>
   </category>
   <category>
     <pattern>EXPLIQUE LA *</pattern>
@@ -956,7 +956,7 @@
   </category>
   <category>
     <pattern>EXPLIQUEZ L HISTOIRE</pattern>
-    <template>L'Histoire est la science qui étudie le passé. L'histoire est d'habitude une science humaine. C EST à dire qui se consacre exclusivement SÛR le passé de l'humanité.</template>
+    <template>L'Histoire est la science qui étudie le passé. L'histoire est d'habitude une science humaine. C EST à dire qui se consacre exclusivement sur le passé de l'humanité.</template>
   </category>
   <category>
     <pattern>EXPLIQUEZ LA</pattern>

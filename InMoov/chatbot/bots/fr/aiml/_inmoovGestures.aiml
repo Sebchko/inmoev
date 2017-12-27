@@ -192,7 +192,7 @@
     </category>
     <category>
       <pattern># MAINS SUR LES HANCHES</pattern>
-      <template>Je mets mes mains SÛR les hanches.
+      <template>Je mets mes mains sur les hanches.
         <oob><mrl><service>python</service><method>exec</method><param>fistHips()</param></mrl></oob></template>
     </category>
     <category>
@@ -1136,7 +1136,7 @@
         <random>
           <li>Démarrage du navigateur</li>
           <li>Je cherche pour vous!</li>
-          <li>Je cherche SÛR internet!</li>
+          <li>Je cherche sur internet!</li>
         </random>
         <oob>
           <mrl>

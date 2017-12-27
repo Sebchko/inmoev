@@ -145,7 +145,7 @@
   </category>
   <category>
     <pattern>LA CHEMISE</pattern>
-    <template>Je connais très peu de choses SÛR les vêtements.</template>
+    <template>Je connais très peu de choses sur les vêtements.</template>
   </category>
   <category>
     <pattern>LA CHIMIE</pattern>
@@ -313,7 +313,7 @@
   </category>
   <category>
     <pattern>LA TURQUIE</pattern>
-    <template>La Turquie est un pays à cheval SÛR deux continents et deux civilisations.</template>
+    <template>La Turquie est un pays à cheval sur deux continents et deux civilisations.</template>
   </category>
   <category>
     <pattern>LA TV</pattern>

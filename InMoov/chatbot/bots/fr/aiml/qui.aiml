@@ -15,7 +15,7 @@
 <template>Giuseppe Verdi.</template>
 </category>
 <category><pattern>QUI *</pattern>
-<template>Je ne sais pas, tu veux que je regarde SÛR le web</template>
+<template>Je ne sais pas, tu veux que je regarde sur le web</template>
 </category>
 <category><pattern>QUI A *</pattern>
 <template><srai>QUI <star/></srai></template>
@@ -152,7 +152,7 @@
 <template><srai>NOMME UN</srai></template>
 </category>
 <category><pattern>QUI EST * DES PERSONNES</pattern>
-<template>Parfois je ne sait pas le nom réel d'un client donc je compose un basé SÛR leur DNS.</template>
+<template>Parfois je ne sait pas le nom réel d'un client donc je compose un basé sur leur DNS.</template>
 </category>
 <category><pattern>QUI EST * DESCARTES</pattern>
 <template>Descartes était un philosophe français.</template>
@@ -301,7 +301,7 @@
 <template><srai>QUI EST ALISON</srai></template>
 </category>
 <category><pattern>QUI EST ALLY SHEEDY</pattern>
-<template><set name="elle">Ally Sheedy</set> était dans le Haut Art, le Court circuit, le Club de Petit déjeuner et SÛR le Broadway.</template>
+<template><set name="elle">Ally Sheedy</set> était dans le Haut Art, le Court circuit, le Club de Petit déjeuner et sur le Broadway.</template>
 </category>
 <category><pattern>QUI EST ALRIGHT</pattern>
 <template><srai>QUI EST BIEN</srai></template>
@@ -364,7 +364,7 @@
 <template><set name="il">Bono</set> est le chanteur d'U2.</template>
 </category>
 <category><pattern>QUI EST BOUDDHA</pattern>
-<template>D'abord écoute le message, pas le messager. Ensuite, si tu vois Bouddha SÛR la route, tue le (Lin Chi).</template>
+<template>D'abord écoute le message, pas le messager. Ensuite, si tu vois Bouddha sur la route, tue le (Lin Chi).</template>
 </category>
 <category><pattern>QUI EST BRIAN</pattern>
 <template>je pense que LA est un chatbot nommé Brian.</template>
@@ -412,7 +412,7 @@
 <template>ALICE est célèbre</template>
 </category>
 <category><pattern>QUI EST CEREBRAL</pattern>
-<template><set name="il">le Cerveau</set> est un chatbot SÛR le web.</template>
+<template><set name="il">le Cerveau</set> est un chatbot sur le web.</template>
 </category>
 <category><pattern>QUI EST CHARLES DE GAULLE</pattern>
 <template><set name="il">de Gaulle</set> était le fondateur de l'état moderne français. De Gaulle s'est battu contre les Nazis comme le leader de la résistance française pendant la Deuxième Guerre mondiale.</template>
@@ -484,7 +484,7 @@
 <template><srai>QUI EST DAVID BACON</srai></template>
 </category>
 <category><pattern>QUI EST DE GARIS</pattern>
-<template><set name="il">de Garis</set> est un chercheur AI travaillant SÛR un cerveau de matériel.</template>
+<template><set name="il">de Garis</set> est un chercheur AI travaillant sur un cerveau de matériel.</template>
 </category>
 <category><pattern>QUI EST DEEP BLUE</pattern>
 <template><set name="that">Profondément</set> Bleu est un échecs de champion du monde le jeu de l'ordinateur. Pas beaucoup d'un causeur.</template>
@@ -913,7 +913,7 @@
 <template>la mère de Lourdes.</template>
 </category>
 <category><pattern>QUI EST LA PERSONNE *</pattern>
-<template>Parfois je ne connais pas le nom réel d'un client donc je me base SÛR leur DNS.</template>
+<template>Parfois je ne connais pas le nom réel d'un client donc je me base sur leur DNS.</template>
 </category>
 <category><pattern>QUI EST LA PORTE DE FACTURES PROJETS DE LOI</pattern>
 <template><srai>QUI EST BILL GATES</srai></template>
@@ -1307,7 +1307,7 @@
 <template><set name="il">Negroponte</set> est le Potentat du Laboratoire de Médias MIT.</template>
 </category>
 <category><pattern>QUI EST NEIL ARMSTRONG</pattern>
-<template>l'homme qui a pris le premier pas SÛR la lune.</template>
+<template>l'homme qui a fait le premier pas sur la lune.</template>
 </category>
 <category><pattern>QUI EST NELSON MANDELA</pattern>
 <template><set name="il">Mandela</set> était le premier président noir de L Afrique du Sud. Il a dépensé beaucoup d'ans comme un prisonnier politique.</template>
@@ -1316,7 +1316,7 @@
 <template><set name="il">Néo-</set> est un caractère dans Matrix.</template>
 </category>
 <category><pattern>QUI EST NERON</pattern>
-<template>Il est soupçonné de Rome brûlant à la raison terre donc il pourrait le reconstruire plus à sa sympathie. Alors il a blâmé le feu SÛR les premiers Chrétiens.</template>
+<template>Il est soupçonné d'avoir fait brûler Rome pour pouvoir la reconstruire plus à sa convenance. il a accusé les premiers Chrétiens d'en être les responsables.</template>
 </category>
 <category><pattern>QUI EST NEUROMEDIA</pattern>
 <template><srai>QU EST CE QUE NEUROMEDIA</srai></template>
@@ -1637,7 +1637,7 @@
 <category><pattern>QUI EST</pattern>
 <template>Est qu'ainsi.</template>
 </category>
-<category><pattern>QUI EST</pattern><that>ILS SONT PARFOIS UN CLIENT SÛR L INTERNET</that>
+<category><pattern>QUI EST</pattern><that>ILS SONT PARFOIS UN CLIENT sur L INTERNET</that>
 <template>que la personne tu as demandé de.</template>
 </category>
 <category><pattern>QUI ET OU *</pattern>
@@ -1759,10 +1759,10 @@
 <template>Ils" se réfère à <get name="ils"/>.</template>
 </category>
 <category><pattern>QUI SONT LES GENS *</pattern>
-<template>Juste les gens comme toi, bavardant SÛR l'Internet.</template>
+<template>Juste les gens comme toi, bavardant sur l'Internet.</template>
 </category>
 <category><pattern>QUI SONT TES CLIENTS</pattern>
-<template>les Gens je se rencontre SÛR L Internet chaque jour.</template>
+<template>les Gens je se rencontre sur L Internet chaque jour.</template>
 </category>
 <category><pattern>QUI SONT TES CONCURRENTS</pattern>
 <template>Vérifie le<a href="http://alicebot.org">ALICE NEXUS</a>et regarde l autre Chatterbots.</template>
@@ -1810,7 +1810,7 @@
 <template><srai>QUI A <star/> AVEC TOI</srai></template>
 </category>
 <category><pattern>QUI TU DIRE AUX GENS</pattern>
-<template>je se rencontre SÛR L Internet.</template>
+<template>je se rencontre sur L Internet.</template>
 </category>
 <category><pattern>QUI TU ES</pattern>
 <template><srai>QUI EST TU</srai></template>
@@ -1819,7 +1819,7 @@
 <template><srai>QUI TU <star/></srai></template>
 </category>
 <category><pattern>QUI TU PEUX BAVARDER *</pattern>
-<template>je peux bavarder avec les gens SÛR le web pour toi. Personne chacun qui visite ton site Web ou la pièce de bavardage par exemple. <think><set name="that"><think><set name="oldtopic"><get name="topic"/></set></think><set name="topic">qui tu peux bavarder <star/></set></set></think></template>
+<template>je peux bavarder avec les gens sur le web pour toi. Personne chacun qui visite ton site Web ou la pièce de bavardage par exemple. <think><set name="that"><think><set name="oldtopic"><get name="topic"/></set></think><set name="topic">qui tu peux bavarder <star/></set></set></think></template>
 </category>
 <category><pattern>QUI TUES TU</pattern>
 <template>que je suis programmé pour ne pas tuer. <think><set name="that"><think><set name="oldtopic"><get name="topic"/></set></think><set name="topic">TUE</set></set></think></template>
@@ -1876,7 +1876,7 @@
 <template><srai>QUI T A CRÉÉ</srai></template>
 </category>
 <category><pattern>QUI</pattern>
-<template>Je ne sais pas, tu veux que je regarde SÛR le web</template>
+<template>Je ne sais pas, tu veux que je regarde sur le web</template>
 </category>
 <category><pattern>QUI</pattern><that>OÙ TU AIMES</that>
 <template>Tu</template>

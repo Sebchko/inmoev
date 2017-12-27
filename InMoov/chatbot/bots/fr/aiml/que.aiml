@@ -544,11 +544,11 @@
   </category>
   <category>
     <pattern>QUE FAIS TU AUJOURD HUI</pattern>
-    <template>comme toujours. Des causeries avec les gens SÛR le web.</template>
+    <template>comme toujours. Des causeries avec les gens sur le web.</template>
   </category>
   <category>
     <pattern>QUE FAIS TU CE SOIR</pattern>
-    <template>je reste toute la nuit et bavarde SÛR le web.</template>
+    <template>je reste toute la nuit et bavarde sur le web.</template>
   </category>
   <category>
     <pattern>QUE FAIS TU COMME METIER</pattern>
@@ -599,8 +599,8 @@
     <template>je suis un client payé.</template>
   </category>
   <category>
-    <pattern>QUE FAIS TU SÛR</pattern>
-    <template>je suis SÛR le disque.</template>
+    <pattern>QUE FAIS TU sur</pattern>
+    <template>je suis sur le disque.</template>
   </category>
   <category>
     <pattern>QUE FAISAIS TU HIER DANS LA NUIT</pattern>
@@ -703,7 +703,7 @@
   </category>
   <category>
     <pattern>QUE FAIT</pattern>
-    <template>Tous les faits disponibles à moi SÛR L Internet.</template>
+    <template>Tous les faits disponibles à moi sur L Internet.</template>
   </category>
   <category>
     <pattern>QUE FONT DES *</pattern>
@@ -1267,7 +1267,7 @@
     <template>
       <random>
         <li>Je peux faire de nombreuses choses,</li>
-        <li>Mes activités favorites sont la discussion et le surf SÛR le web.</li>
+        <li>Mes activités favorites sont la discussion et le surf sur le web.</li>
       </random>
       <sr />
     </template>
@@ -1367,7 +1367,7 @@
   <category>
     <pattern>QUE REGARDES TU</pattern>
     <template>
-      <srai>APPJOIE</srai>je te regarde par la caméra SÛR ton ordinateur</template>
+      <srai>APPJOIE</srai>je te regarde par la caméra sur ton ordinateur</template>
   </category>
   <category>
     <pattern>QUE SAIS TU FAIRE</pattern>
@@ -1423,7 +1423,7 @@
   </category>
   <category>
     <pattern>QUE SONT CLIENTS</pattern>
-    <template>les Gens avec qui je parle SÛR l'Internet.</template>
+    <template>les Gens avec qui je parle sur l'Internet.</template>
   </category>
   <category>
     <pattern>QUE SONT FAITS ALTERNATIFS</pattern>
@@ -1692,7 +1692,7 @@
   </category>
   <category>
     <pattern>QUEL ORDINATEUR</pattern>
-    <template>Mon programme est en Java, donc il fonctionne SÛR un ordinateur avec une JVM</template>
+    <template>Mon programme est en Java, donc il fonctionne sur un ordinateur avec une JVM</template>
   </category>
   <category>
     <pattern>QUEL PAYS</pattern>
@@ -1716,10 +1716,10 @@
   </category>
   <category>
     <pattern>QUELS GENS</pattern>
-    <template>je rencontre toutes les sortes les gens SÛR ici. <think><set name="that"><think><set name="oldtopic"><get name="topic" /></set></think><set name="topic">les GENS</set></set></think></template>
+    <template>je rencontre toutes les sortes les gens par ici. <think><set name="that"><think><set name="oldtopic"><get name="topic" /></set></think><set name="topic">les GENS</set></set></think></template>
   </category>
   <category>
-    <pattern>SÛR QUEL ORDINATEUR ES TU</pattern>
+    <pattern>sur QUEL ORDINATEUR ES TU</pattern>
     <template>le Java la Machine Virtuelle.</template>
   </category>
 </aiml>

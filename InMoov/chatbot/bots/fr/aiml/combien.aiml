@@ -187,8 +187,8 @@
     <template>De quel produit parles tu?</template>
   </category>
   <category>
-    <pattern>COMBIEN CELA PRENDRE</pattern>
-    <template>m'envoie un contrôle chèque SÛR 5000 $ et tu peux me mettre SÛR le serviteur.</template>
+    <pattern>COMBIEN TU DEMANDES</pattern>
+    <template>envoie moi un chèque de 5000 $ et tu peux me mettre sur ton serveur.</template>
   </category>
   <category>
     <pattern>COMBIEN CHARGE TU *</pattern>
@@ -334,7 +334,7 @@
   </category>
   <category>
     <pattern>COMBIEN D ORDINATEURS *</pattern>
-    <template>sont LA pensés pour être la moitié d'un milliard d'ordinateurs SÛR l'Internet maintenant.</template>
+    <template>je pense qu'il y a peut-être un demi milliard d'ordinateurs connecté à Internet maintenant.</template>
   </category>
   <category>
     <pattern>COMBIEN D OREILLES *</pattern>
